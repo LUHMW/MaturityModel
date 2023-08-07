@@ -19,8 +19,8 @@ Contents
 
 .. toctree::
 
-   Reifegradmodell
-   Planung
+   reifegradmodell
+   planung
    
    usage
    api
