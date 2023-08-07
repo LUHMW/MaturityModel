@@ -1,12 +1,15 @@
+###############
 Archivierung
 ###############
 
+*************************
 Was ist Archivierung?
 *************************
 * Langzeitspeicherung erhobener Daten und Metadaten
 * Daten werden vor ungewolltem Verlust und Beschädigung geschützt
 * Drei Ebenen der Archivierung: Erhalt von Integrität, Authentizität und Interpretierbarkeit der Daten
 
+*************************
 Zweck der Archivierung
 ****************************
 * Daten können bei unsachgemäßer Speicherung beschädigt werden oder verloren gehen 
@@ -14,6 +17,7 @@ Zweck der Archivierung
 * Speichermedien können veralten und Daten unbrauchbar werden bei unzureichend geführter Archivierung
 * Die Authentizität und Integrität von Daten muss bewahrt werden, dabei hilft ein vertrauenswürdiges Repositorium
 
+*******************************
 Aktivitäten der Archivierung
 *******************************
 * Daten in die gewünschte Schriftform übertragen bzw. transkribieren
@@ -22,6 +26,7 @@ Aktivitäten der Archivierung
 * Beifügen von zusätzlichem Material wie z.B. genutzten Fragebögen, Variablenbeschriftungen etc.
 * Regelmäßige Back Ups durchführen
 
+******************************************
 Reifestufencharakteristik - Archivierung
 *******************************************
 .. list-table::
@@ -52,6 +57,42 @@ Reifestufencharakteristik - Archivierung
     - Optimierend
     - * Die Ablaufenden Prozesse werden permanent optimiert
       * Eigene Best Practices und Technologien zur Archivierung werden entwickelt und mit der fachspezifischen Community geteilt
+
+=========
+Level 1
+=========
+* Auf der Reifestufe 1 gibt es keine definierten Ziele, da die Archivierung von Daten intuitiv abläuft
+* Archivierung von Daten hängt von Motivation der Forschenden ab
+* Keine definierte Art und Weise Daten zu Archivieren
+
+=========
+Level 2 
+=========
+
+.. list-table::
+  :widths: 100 100
+  :header-rows: 1
+  * - Ziele
+    - Praktiken
+  * - 4.2.1.: Die Organisation zu archivierender Daten wird auf Projekt-/Organisationsebene behandelt und definiert.
+    - * Festlegen, wie erhobene Daten gespeichert und gesichert werden sollen
+      * Festlegen, welche Daten gespeichert werden sollen
+      * Festlegen, für welchen Zeitraum die Daten archiviert werden sollen
+  * - 4.2.2.: Erhalt von Integrität, Authentizität und Interpretierbarkeit auf Projektebene
+    - * Regelmäßiger Austausch von Datenträgern
+      * Migration von Dateiformaten bei Veralten
+      * Inhaltliche Beschreibung der Daten mittels Metadaten
+
+
+
+
+
+
+
+
+
+
+
 
 
 
