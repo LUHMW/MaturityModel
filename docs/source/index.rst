@@ -25,5 +25,5 @@ Abschnitte des FDM-Zyklus
    analyse
    archivierung
    zugriff
-   nachnutzen
+   nachnutzung
    
