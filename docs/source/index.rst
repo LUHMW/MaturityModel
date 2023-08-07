@@ -20,6 +20,10 @@ Contents
 .. toctree::
 
    reifegradmodell
-   planung   
-   usage
-   api
+   planung 
+   daten_erzeugen
+   analyse
+   archivierung
+   zugriff
+   nachnutzen
+   
