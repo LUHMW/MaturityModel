@@ -11,7 +11,7 @@ Abschnitt 2
 Noch mehr Text
 
 
-..toctree::
+.. toctree::
 
 abschnitt1
 abschnitt2
