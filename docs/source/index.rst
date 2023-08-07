@@ -16,8 +16,19 @@ how to :ref:`Abschnitt 1` the project.
 
 Abschnitte des FDM-Zyklus
 --------
+:ref:`Planung`
+:ref:`Daten Erzeugung`
+:ref:`Analyse`
+:ref:`Archivierung`
+:ref:`Zugriff`
+:ref:`Nachnutzung`
+
+
+
+
 
 .. toctree::
+   :hidden:
    
    reifegradmodell
    planung 
