@@ -27,8 +27,9 @@ Aktivitäten der Archivierung
 * Regelmäßige Back Ups durchführen
 
 ******************************************
-Reifestufencharakteristik - Archivierung
+Reifestufen - Archivierung
 *******************************************
+
 .. list-table::
   :widths: 25 25 150
   :header-rows: 1
