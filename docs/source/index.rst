@@ -18,6 +18,7 @@ Abschnitte des FDM-Zyklus
 --------
 
 .. toctree::
+   :titlesonly:
 
    reifegradmodell
    planung 
