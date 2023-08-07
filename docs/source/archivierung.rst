@@ -26,9 +26,9 @@ Aktivitäten der Archivierung
 * Beifügen von zusätzlichem Material wie z.B. genutzten Fragebögen, Variablenbeschriftungen etc.
 * Regelmäßige Back Ups durchführen
 
-******************************************
-Reifestufen - Archivierung
-*******************************************
+************
+Reifestufen
+************
 
 .. list-table::
   :widths: 25 25 150
