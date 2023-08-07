@@ -7,8 +7,8 @@ It pulls data from the `Open Food Facts database <https://world.openfoodfacts.or
 and offers a *simple* and *intuitive* API.
 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`reifegradmodell` section for further information, including
+how to :ref:`abschnitt1` the project.
 
 .. note::
 
@@ -18,7 +18,6 @@ Abschnitte des FDM-Zyklus
 --------
 
 .. toctree::
- :maxdepth: 1
 
    reifegradmodell
    planung 
