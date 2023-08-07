@@ -13,5 +13,5 @@ Noch mehr Text
 
 .. toctree::
 
-abschnitt1
-abschnitt2
+  abschnitt1
+  abschnitt2
