@@ -73,16 +73,18 @@ Level 2
 =========
 
 .. list-table::
-  :widths: 100 100
+  :widths: 50 50
   :header-rows: 1
 
   * - Ziele
     - Praktiken
-  * - 4.2.1.: Die Organisation zu archivierender Daten wird auf Projekt-/Organisationsebene behandelt und definiert.
+  * - 4.2.1.: Die Organisation zu archivierender Daten wird
+      auf Projekt-/Organisationsebene behandelt und definiert.
     - * Festlegen, wie erhobene Daten gespeichert und gesichert werden sollen
       * Festlegen, welche Daten gespeichert werden sollen
       * Festlegen, für welchen Zeitraum die Daten archiviert werden sollen
-  * - 4.2.2.: Erhalt von Integrität, Authentizität und Interpretierbarkeit auf Projektebene
+  * - 4.2.2.: Erhalt von Integrität, Authentizität und
+      Interpretierbarkeit auf Projektebene
     - * Regelmäßiger Austausch von Datenträgern
       * Migration von Dateiformaten bei Veralten
       * Inhaltliche Beschreibung der Daten mittels Metadaten
@@ -92,7 +94,70 @@ Level 2
 Level 3
 ========
 
+.. list-table::
+  :widths: 50 50
+  :header-rows: 1
 
+  * - Ziele
+    - Praktiken
+  * - 4.3.1.: Das Management der Archivierung wird nach 
+      communityorientierten und fachspezifischen Standards 
+      ausgerichtet
+    - * Identifizieren und einbeziehen von gemeinschaftsweiten 
+        Regelungen und Standards (Best Practices)
+      * Nutzen eines Repositoriums, das den Standards der
+        fachspezifischen Community entspricht
+  * - 4.3.2.: Das Speichern der Daten wird an einen 
+      fachspezifischen Kontext ausgerichtet
+    - * Zum Verständnis wichtige Metadaten werden gemeinsam mit den Daten abgespeichert
+      * Nutzen von standardisierten Dateiformaten
+
+
+=========
+Level 4
+=========
+
+.. list-table::
+  :widths: 50 50
+  :header-rows: 1
+
+  * - Ziele
+    - Praktiken
+  * - 4.4.1.: Es werden quantitative Qualitätsziele für die Archivierung etabliert
+    - * Identifizieren und einbeziehen von Metriken
+      * Definieren von KPIs für die Qualitätskontrolle
+      * Etablieren von quantitative Qualitätszielen
+  * - 4.4.2.: Die Datenqualität der archivierten Daten wird sichergestellt
+    - * Überprüfen der Ausführung im Hinblick auf definierte relevante Merkmale
+      * Einführen von regelmäßiger Überprüfung zur Datenqualität und Umsetzung
+
+
+=========
+Level 5
+=========
+
+.. list-table::
+  :widths: 50 50
+  :header-rows: 1
+
+  * - Ziele
+    - Praktiken
+  * - 4.5.1.: Die definierten Prozesse werden kontinuierlich  |  und proaktiv verbessert und angepasst
+    - * Verbessern und anpassen des Managements  |  der Archivierung auf Grundlage von neuen  |  Standards des Fachbereichs
+  * - 4.5.2.: Die Technologien, die den Datenzugang  |  ermöglichen, werden regelmäßig bewertet und  |  Verbesserungen werden umgesetzt
+    - * Entwickeln und nutzen neuer technischer Standards
+      * Austausch und Entwickelung technischer Systeme in der  |  fachspezifischen Community
+
+============================
+Weiterführende Materialien
+============================
+Auf der Internetseite
+`Forschungsdaten.info <https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren>`_
+sind weiterführende Informationen, sowie Beispiele für vertrauenswürdige Repositorien zu finden.
+
+`UK Data Archive <https://dam.ukdataservice.ac.uk/media/622417/managingsharing.pdf>`_
+
+`Publisso - Digitale Langzeitarchivierung <https://www.publisso.de/digitale-langzeitarchivierung>`_
 
 
 
