@@ -143,9 +143,9 @@ Level 5
     - * Entwickeln und nutzen neuer technischer Standards
       * Austausch und Entwickelung technischer Systeme in der  \n  fachspezifischen Community
 
-============================
+***************************
 Weiterführende Materialien
-============================
+***************************
 Auf der Internetseite
 `Forschungsdaten.info <https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren>`_
 sind weiterführende Informationen, sowie Beispiele für vertrauenswürdige Repositorien zu finden.
