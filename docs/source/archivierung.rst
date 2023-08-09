@@ -69,7 +69,6 @@ Level 1
 =========
 Level 2 
 =========
-
 .. list-table::
   :widths: 100 100
   :header-rows: 1
