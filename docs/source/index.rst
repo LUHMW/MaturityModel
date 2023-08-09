@@ -1,14 +1,10 @@
-Welcome to Lumache's documentation!
-===================================
+Ein Reifegradmodell im Forschungsdatenmanagement
+==================================================
 
-Test **Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients Test.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Auf dieser Website finden Sie Informationen über Reifegradmodelle und ihre Anwendung im Forschungsdatenmanagement (**FDM**).
+Für jeden Abschnitt im Lebenszyklus der Daten finden Sie eine Seite mit allgemeinen Informationen zu 
+diesem Abschnitt und einer Auflistung von Zielen und Praktiken für die entsprechen Reifestufen.
 
-
-Check out the :doc:`reifegradmodell` section for further information, including
-how to :ref:`reifegradmodell/Abschnitt 1` the project.
 
 .. note::
 
@@ -23,12 +19,15 @@ Abschnitte des FDM-Zyklus
 * :ref:`Zugriff`
 * :ref:`Nachnutzung`
 
-
-
 .. toctree::
    :hidden:
-   
+
    reifegradmodell
+
+.. toctree::
+   :caption: FDM Lebenszyklus
+   :hidden:
+   
    planung 
    daten_erzeugen
    analyse
