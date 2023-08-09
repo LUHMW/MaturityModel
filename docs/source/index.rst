@@ -16,12 +16,12 @@ how to :ref:`reifegradmodell/Abschnitt 1` the project.
 
 Abschnitte des FDM-Zyklus
 --------
-:ref:`Planung`_
-:ref:`Daten Erzeugen`_
-:ref:`Analyse`_
-:ref:`Archivierung`_
-:ref:`Zugriff`_
-:ref:`Nachnutzung`_
+* :ref:`Planung`
+* :ref:`Daten Erzeugen`
+* :ref:`Analyse`
+* :ref:`Archivierung`
+* :ref:`Zugriff`
+* :ref:`Nachnutzung`
 
 
 
