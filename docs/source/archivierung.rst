@@ -1,5 +1,4 @@
 .. _Archivierung:
-.. |br| raw:: html
 
 ###############
 Archivierung
