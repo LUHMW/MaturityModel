@@ -13,7 +13,7 @@ Was ist Archivierung?
 
 *************************
 Zweck der Archivierung
-****************************
+*************************
 * Daten können bei unsachgemäßer Speicherung beschädigt werden oder verloren gehen 
 * Interoperabilität, Langzeitarchivierung und effiziente Datenanalyse wird durch gut durchgeführte Archivierungsprozesse gewährleistet
 * Speichermedien können veralten und Daten unbrauchbar werden bei unzureichend geführter Archivierung
@@ -71,9 +71,11 @@ Level 1
 =========
 Level 2 
 =========
+
 .. list-table::
   :widths: 100 100
   :header-rows: 1
+
   * - Ziele
     - Praktiken
   * - 4.2.1.: Die Organisation zu archivierender Daten wird auf Projekt-/Organisationsebene behandelt und definiert.
