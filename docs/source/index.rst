@@ -8,7 +8,7 @@ and offers a *simple* and *intuitive* API.
 
 
 Check out the :doc:`reifegradmodell` section for further information, including
-how to :ref:`Abschnitt 1` the project.
+how to :ref:`reifegradmodell/Abschnitt 1` the project.
 
 .. note::
 
