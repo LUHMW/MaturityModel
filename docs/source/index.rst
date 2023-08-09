@@ -16,11 +16,11 @@ how to :ref:`Abschnitt 1` the project.
 
 Abschnitte des FDM-Zyklus
 --------
-:ref:`Planung`
+:doc:`planung`
 
-:ref:`Daten Erzeugung`
+:doc:`daten_erzeugen`
 
-:ref:`Analyse`
+:doc:`analyse`
 
 :ref:`Archivierung`
 
