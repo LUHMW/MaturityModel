@@ -74,7 +74,7 @@ Level 2
 =========
 
 .. list-table::
-  :widths: 50 50
+  :widths: 5 10
   :header-rows: 1
 
   * - Ziele
@@ -96,7 +96,7 @@ Level 3
 ========
 
 .. list-table::
-  :widths: 50 50
+  :widths: 20 30
   :header-rows: 1
 
   * - Ziele
@@ -138,11 +138,17 @@ Level 5
 
   * - Ziele
     - Praktiken
-  * - 4.5.1.: Die definierten Prozesse werden kontinuierlich \n  und proaktiv verbessert und angepasst
-    - * Verbessern und anpassen des Managements  \n  der Archivierung auf Grundlage von neuen  \n  Standards des Fachbereichs
-  * - 4.5.2.: Die Technologien, die den Datenzugang  \n  ermöglichen, werden regelmäßig bewertet und \n  Verbesserungen werden umgesetzt
+  * - |  4.5.1.: Die definierten Prozesse werden kontinuierlich
+      |  und proaktiv verbessert und angepasst
+    - * |  Verbessern und anpassen des Managements
+        |  der Archivierung auf Grundlage von neuen
+        |  Standards des Fachbereichs
+  * - |  4.5.2.: Die Technologien, die den Datenzugang
+      |  ermöglichen, werden regelmäßig bewertet und
+      |  Verbesserungen werden umgesetzt
     - * Entwickeln und nutzen neuer technischer Standards
-      * Austausch und Entwickelung technischer Systeme in der  \n  fachspezifischen Community
+      * |  Austausch und Entwickelung technischer Systeme in der
+        |  fachspezifischen Community
 
 ***************************
 Weiterführende Materialien
