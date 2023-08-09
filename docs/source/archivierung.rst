@@ -1,3 +1,5 @@
+.. _Archivierung:
+
 ###############
 Archivierung
 ###############
