@@ -100,15 +100,10 @@ Level 3
 
   * - Ziele
     - Praktiken
-  * - 4.3.1.: Das Management der Archivierung wird nach 
-      communityorientierten und fachspezifischen Standards 
-      ausgerichtet
-    - * Identifizieren und einbeziehen von gemeinschaftsweiten 
-        Regelungen und Standards (Best Practices)
-      * Nutzen eines Repositoriums, das den Standards der
-        fachspezifischen Community entspricht
-  * - 4.3.2.: Das Speichern der Daten wird an einen 
-      fachspezifischen Kontext ausgerichtet
+  * - 4.3.1.: Das Management der Archivierung wird nach |br| communityorientierten und fachspezifischen Standards |br| ausgerichtet
+    - * Identifizieren und einbeziehen von gemeinschaftsweiten |br| Regelungen und Standards (Best Practices)
+      * Nutzen eines Repositoriums, das den Standards der |br| fachspezifischen Community entspricht
+  * - 4.3.2.: Das Speichern der Daten wird an einen |br| fachspezifischen Kontext ausgerichtet
     - * Zum Verständnis wichtige Metadaten werden gemeinsam mit den Daten abgespeichert
       * Nutzen von standardisierten Dateiformaten
 
@@ -142,11 +137,11 @@ Level 5
 
   * - Ziele
     - Praktiken
-  * - 4.5.1.: Die definierten Prozesse werden kontinuierlich  |  und proaktiv verbessert und angepasst
-    - * Verbessern und anpassen des Managements  |  der Archivierung auf Grundlage von neuen  |  Standards des Fachbereichs
-  * - 4.5.2.: Die Technologien, die den Datenzugang  |  ermöglichen, werden regelmäßig bewertet und  |  Verbesserungen werden umgesetzt
+  * - 4.5.1.: Die definierten Prozesse werden kontinuierlich \n  und proaktiv verbessert und angepasst
+    - * Verbessern und anpassen des Managements  \n  der Archivierung auf Grundlage von neuen  \n  Standards des Fachbereichs
+  * - 4.5.2.: Die Technologien, die den Datenzugang  \n  ermöglichen, werden regelmäßig bewertet und \n  Verbesserungen werden umgesetzt
     - * Entwickeln und nutzen neuer technischer Standards
-      * Austausch und Entwickelung technischer Systeme in der  |  fachspezifischen Community
+      * Austausch und Entwickelung technischer Systeme in der  \n  fachspezifischen Community
 
 ============================
 Weiterführende Materialien
