@@ -78,13 +78,14 @@ Level 2
 
   * - Ziele
     - Praktiken
-  * - 4.2.1.: Die Organisation zu archivierender Daten wird
-      auf Projekt-/Organisationsebene behandelt und definiert.
+  * - |  4.2.1.: Die Organisation zu archivierender Daten
+      |  wird auf Projekt-/Organisationsebene 
+      |  behandelt und definiert.
     - * Festlegen, wie erhobene Daten gespeichert und gesichert werden sollen
       * Festlegen, welche Daten gespeichert werden sollen
       * Festlegen, für welchen Zeitraum die Daten archiviert werden sollen
-  * - 4.2.2.: Erhalt von Integrität, Authentizität und
-      Interpretierbarkeit auf Projektebene
+  * - |  4.2.2.: Erhalt von Integrität, Authentizität 
+      |  und Interpretierbarkeit auf Projektebene
     - * Regelmäßiger Austausch von Datenträgern
       * Migration von Dateiformaten bei Veralten
       * Inhaltliche Beschreibung der Daten mittels Metadaten
@@ -100,10 +101,15 @@ Level 3
 
   * - Ziele
     - Praktiken
-  * - 4.3.1.: Das Management der Archivierung wird nach |br| communityorientierten und fachspezifischen Standards |br| ausgerichtet
-    - * Identifizieren und einbeziehen von gemeinschaftsweiten |br| Regelungen und Standards (Best Practices)
-      * Nutzen eines Repositoriums, das den Standards der |br| fachspezifischen Community entspricht
-  * - 4.3.2.: Das Speichern der Daten wird an einen |br| fachspezifischen Kontext ausgerichtet
+  * - |  4.3.1.: Das Management der Archivierung wird 
+      |  nach communityorientierten und fachspezifischen
+      |  Standards ausgerichtet
+    - * |  Identifizieren und einbeziehen von gemeinschaftsweiten
+        |  Regelungen und Standards (Best Practices)
+      * |  Nutzen eines Repositoriums, das den Standards der
+        |  fachspezifischen Community entspricht
+  * - |  4.3.2.: Das Speichern der Daten wird an einen
+      |  fachspezifischen Kontext ausgerichtet
     - * Zum Verständnis wichtige Metadaten werden gemeinsam mit den Daten abgespeichert
       * Nutzen von standardisierten Dateiformaten
 
