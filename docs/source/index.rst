@@ -20,6 +20,7 @@ Abschnitte des FDM-Zyklus
 * :ref:`Nachnutzung`
 
 .. toctree::
+   :caption: Reifegradmodell
    :hidden:
 
    reifegradmodell
