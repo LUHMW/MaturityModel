@@ -135,13 +135,14 @@ Level 4
 
   * - Ziele
     - Praktiken
-  * - 1.4.1: Etablierung von Qualitätszielen für die Datenmanagementplanung
+  * - |  1.4.1: Etablierung von Qualitätszielen
+			|  für die Datenmanagementplanung
     - * |  Identifizierung von Qualitätszielen 
         |  (bspw. Aktualität, Vollständigkeit, Relevanz der Inhalte, …)
   * - |  1.4.2: Die Qualität der DMPs wird im Projekt
       |  über die gesamte Projektlaufzeit gesichert
-    - * Überprüfung des DMP auf Einhaltung der etablierten Qualitätsziele bspw.:
-        * |  Festlegen von Zeiträumen zur regelmäßigen 
+    - * | Überprüfung des DMP auf Einhaltung der etablierten Qualitätsziele bspw.:
+      	* |  Festlegen von Zeiträumen zur regelmäßigen 
           |  Überprüfung der Aktualität (Aktualität)
         * Identifizieren von Freifeldern im DMP (Vollständigkeit)
 
