@@ -86,8 +86,7 @@ Level 2
       |  Umsetzung des Datenmanagement im 
       |  Forschungsprojekt wird erstellt
     - * |  Betrachtung aller wesentlichen Aspekte 
-        |  für den Umgang mit Forschungsdaten
-      * | Berücksichtigung der Anforderungen des Fördergebers
+        |  für den Umgang mit Forschungsdaten  |  * Berücksichtigung der Anforderungen des Fördergebers
   * - |  1.2.2: Ziele, Prioritäten und Umfang des FDM
       |  wird orientiert am Forschungsprojekt geplant
       |  und bei der Antragsstellung berücksichtigt
