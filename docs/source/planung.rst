@@ -18,16 +18,16 @@ Zweck der Planung
 *************************
 * Daten langfristig zugänglich und nutzbar machen
 * Frühzeitige Planung erhöht die Wahrscheinlichkeit, dass in weiterer Forschung Datenpflege-Richtlinien eingehalten werden 
-* |  Transparenz und Offenheit 
+* Transparenz und Offenheit 
   * Unterstützung der Verantwortung, öffentlich finanzierte Forschungsprodukte offen zugänglich zu machen
-* |  Return on Investment 
-  * |  Transparenz und Offenheit fördern neue Forschungen durch Nutzung vorhandener Daten und verhindern unbeabsichtigte Redundanz in der Forschung
+* Return on Investment 
+  * Transparenz und Offenheit fördern neue Forschungen durch Nutzung vorhandener Daten und verhindern unbeabsichtigte Redundanz in der Forschung
 *******************************
 Aktivitäten der Planung
 *******************************
 * Primäre Funktionen sind Methodenauswahl und Festlegung eines adäquaten Förderrahmens
-* |  Datenmanagementplan unter Rücksichtnahme der Anforderungen ausarbeiten
-  * |  Hilfreiches Tool ist RDMO
+* Datenmanagementplan unter Rücksichtnahme der Anforderungen ausarbeiten
+  * Hilfreiches Tool ist RDMO
 * Klärung der ethischen und rechtlichen Rahmenbedingungen
 * Verantwortlichkeiten und spezifische Rollen für FDM müssen geklärt werden 
 * Prüfung auf Möglichkeit zur Nachnutzung bestehender Daten
@@ -86,17 +86,17 @@ Level 2
       |  Umsetzung des Datenmanagement im 
       |  Forschungsprojekt wird erstellt
     - * |  Betrachtung aller wesentlichen Aspekte 
-        |  für den Umgang mit Forschungsdaten  
+        |  für den Umgang mit Forschungsdaten  |
 			* Berücksichtigung der Anforderungen des Fördergebers
   * - |  1.2.2: Ziele, Prioritäten und Umfang des FDM
       |  wird orientiert am Forschungsprojekt geplant
       |  und bei der Antragsstellung berücksichtigt
     - * |  Identifizierung von forschungsrelevanten Inhalten
         |  bezüglich des Datenmanagement (bspw. Maschinen, Feldversuche, …)
-      * Benötigte Ressourcen (Kosten, Personal, etc.) 
-        |  kalkulieren und planen
-      * Berücksichtigung von Anforderungen des 
-        |  Fördergebers zur Umsetzung des FDM
+      * Benötigte Ressourcen (Kosten, Personal, etc.)  |
+        kalkulieren und planen
+      * Berücksichtigung von Anforderungen des  |
+        Fördergebers zur Umsetzung des FDM
 
 
 ========
