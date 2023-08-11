@@ -92,11 +92,11 @@ Level 2
       |  wird orientiert am Forschungsprojekt geplant
       |  und bei der Antragsstellung berücksichtigt
     - * |  Identifizierung von forschungsrelevanten Inhalten
-           bezüglich des Datenmanagement (bspw. Maschinen, Feldversuche, …)
-      * |  Benötigte Ressourcen (Kosten, Personal, etc.)
+        |  bezüglich des Datenmanagement (bspw. Maschinen, Feldversuche, …)
+      *    Benötigte Ressourcen (Kosten, Personal, etc.)
         |  kalkulieren und planen
-      * |  Berücksichtigung von Anforderungen des  |
-           Fördergebers zur Umsetzung des FDM
+      * |  Berücksichtigung von Anforderungen des
+        |  Fördergebers zur Umsetzung des FDM
 
 
 ========
@@ -122,7 +122,7 @@ Level 3
         |  an die fachspezifische Community
       * |  Berücksichtigung von domänenspezifischen 
         |  Communitystandards in der Planung 
-        |(möglicher Einfluss auf Projektressourcen)
+        |  (möglicher Einfluss auf Projektressourcen)
 
 
 =========
@@ -167,7 +167,7 @@ Level 5
   * - |  1.5.2: Prozesse und Pläne werden mit Hilfe von bewährten
       |  Verfahren entwickelt und kontinuierlich angepasst und 
       |  mit der fachspezifischen Community kommuniziert
-    - * Entwickeln und nutzen neuer technischer Standards
+    - * |  Entwickeln und nutzen neuer technischer Standards
       * |  Bestehende Best Practices werden innerhalb
         |  des Projekts genutzt und optimiert
       * |  Ständiger Austausch mit der fachspezifischen Community
