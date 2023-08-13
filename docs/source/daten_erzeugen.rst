@@ -170,7 +170,7 @@ Level 4
     - Praktiken
   * - |  2.4.1: Es werden quantitative
 			|  Qualitätsziele für die Datenerhebung
-			| und Datenqualität definiert und etabliert
+			|  und Datenqualität definiert und etabliert
     - * |  Bestimmung zu überprüfender Qualitätsaspekte bei der Datenerhebung
 			* |  Identifizieren und einbeziehen relevanter Qualitätsmetriken
   * - |  2.4.2: Kontrolle der Datenqualität 
@@ -179,7 +179,7 @@ Level 4
 			|  Datenqualität -> keine inhaltliche 
 			|  Analyse zur Beantwortung der 
 			|  Forschungsfrage)
-    - * | Überprüfen der Datenqualität im Hinblick auf definierte Merkmale (bspw. 
+    - * |  Überprüfen der Datenqualität im Hinblick auf definierte Merkmale (bspw. 
 				|  Korrektheit, Vollständigkeit,...)
       * |  Anwendung identifizierter Qualitätsmetriken
 			* |  Dokumentation kontextueller (Meta-)Daten im Zusammenhang mit der 
@@ -220,7 +220,7 @@ Level 5
 			|  ermöglichen, werden regelmäßig bewertet und 
 			|  Verbesserungen werden umgesetzt
     - * |  Entwickeln und nutzen neuer technischer Standards
-      * | Austausch und entwickeln technischer Systeme in der 
+      * |  Austausch und entwickeln technischer Systeme in der 
 				|  fachspezifischen Community
 
 ***************************
