@@ -34,16 +34,16 @@ Feldexperimente (GOLO)
 Aktivitäten von Feldexperimenten
 *********************************
 **Datenerfassung**, Sammlung und Aufnahme von Beobachtungen definierter Eigenschaften in einem Feld
-* Vorbereitung des Feldexperiments
-  * Bestimmung eines technischen Systems (Messinstruments) und Aufnahmeverfahren
-  * Zeitraum und Umfang des Feldexperiments bestimmen
-* Durchführung des Feldexperiments
-  * Aufnahme von Daten in einem Feld
+	* Vorbereitung des Feldexperiments
+  	* Bestimmung eines technischen Systems (Messinstruments) und Aufnahmeverfahren
+  	* Zeitraum und Umfang des Feldexperiments bestimmen
+	* Durchführung des Feldexperiments
+  	* Aufnahme von Daten in einem Feld
 **Felddokumentation**, Dokumentation der Feldgegebenheiten im definierten Zeitraum während der Datenerhebung
-* Bestimmung der zu dokumentierenden Feldgegebenheiten (Was?)
-  * Rahmenbedingungen, Unsicherheiten,...
-* Art der Dokumentation bestimmen (Wie?)
-  * Händisch, digital,...
+	* Bestimmung der zu dokumentierenden Feldgegebenheiten (Was?)
+  	* Rahmenbedingungen, Unsicherheiten,...
+	* Art der Dokumentation bestimmen (Wie?)
+  	* Händisch, digital,...
 
 ************
 Reifestufen
@@ -85,17 +85,17 @@ Reifestufen
 =========
 Level 1
 =========
-* Auf der Reifestufe 1 gibt es keine definierten Ziele, da das Feldexperiment intuitiv und ad hoc geplant und durchgeführt wird
-* Feldverhalten wird unstrukturiert aufgenommen
-  * Messinstrument und Aufnahmeverfahren werden intuitiv gewählt
-* Datendokumentation läuft intuitiv ab. 
-  * Keine vorgegebenen Standards und Templates
-* Die Ausführung ist dabei Abhängig von der Motivation der/des Forschenden
+	* Auf der Reifestufe 1 gibt es keine definierten Ziele, da das Feldexperiment intuitiv und ad hoc geplant und durchgeführt wird
+	* Feldverhalten wird unstrukturiert aufgenommen
+  	* Messinstrument und Aufnahmeverfahren werden intuitiv gewählt
+	* Datendokumentation läuft intuitiv ab. 
+  	* Keine vorgegebenen Standards und Templates
+	* Die Ausführung ist dabei Abhängig von der Motivation der/des Forschenden
 
 
-=========
-Level 2 
-=========
+========
+Level 2
+========
 
 .. list-table::
   :widths: 5 10
@@ -107,7 +107,7 @@ Level 2
       |  theoretischen Konstrukte hinreichend für das Projekt 
       |  (Planung und Durchführung der Datenerhebung -
       |  Grundlagen)
-      * |  Bestimmung der zu erhebenden Beobachtungseinheiten und 
+    - * |  Bestimmung der zu erhebenden Beobachtungseinheiten und 
         |  Eigenschaften - Zielgrößendefinition (Messdaten mit 
         |  direkten Bezug zur Ziel-Messgröße)
 			* |  Bestimmung des zu verwendenden Messinstruments 
