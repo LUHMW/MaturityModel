@@ -9,16 +9,16 @@ Feldexperiment (Daten Erzeugen)
 Was ist Daten Erzeugung?
 *************************
 **Zwei Hauptkomponenten im Prozess der Datenerzeugung**
-* **Verfahren**, die Art und Weise der Datenerzeugung (Experimente, Instrumente, Datenbanken, ...)
-  * Daten generieren
-  * Daten nachnutzen / sammeln
-* **Methodik**, die Prozesse, Praktiken und Prozeduren der wissenschaftlichen Forschung
-  * Umfragen, Fallstudien, Simulationen, Analyse bestehender Daten, ...
+	* **Verfahren**, die Art und Weise der Datenerzeugung (Experimente, Instrumente, 		Datenbanken, ...)
+ 	 * Daten generieren
+ 	 * Daten nachnutzen / sammeln
+	* **Methodik**, die Prozesse, Praktiken und Prozeduren der wissenschaftlichen Forschung
+  	* Umfragen, Fallstudien, Simulationen, Analyse bestehender Daten, ...
 **Zwei Hauptkomponenten für das FDM während der Datenerzeugung**
-* **Datenerfassung**, der Prozess der Datenerzeugung für die nachfolgende Analyse (generieren, sammeln) (F.4)
-* **Datendokumentation**, die erstellte Beschreibung der Datenerzeugung (Randbedingungen, Parameter, Formate, ...)
+	* **Datenerfassung**, der Prozess der Datenerzeugung für die nachfolgende Analyse (generieren, sammeln) (F.4)
+	* **Datendokumentation**, die erstellte Beschreibung der Datenerzeugung (Randbedingungen, Parameter, Formate, ...)
 
---> „Erfolgreiche“ Datenerfassung von Forschungsdaten zur weiteren Analyse und Nachnutzung der Daten
+**-->** „Erfolgreiche“ Datenerfassung von Forschungsdaten zur weiteren Analyse und Nachnutzung der Daten
 
 
 *************************
@@ -168,17 +168,29 @@ Level 4
 
   * - Ziele
     - Praktiken
-  * - |  1.4.1: Etablierung von Qualitätszielen
-			|  für die Datenmanagementplanung
-    - * |  Identifizierung von Qualitätszielen 
-        |  (bspw. Aktualität, Vollständigkeit, Relevanz der Inhalte, …)
-  * - |  1.4.2: Die Qualität der DMPs wird im Projekt
-      |  über die gesamte Projektlaufzeit gesichert
-    - * | Überprüfung des DMP auf Einhaltung der etablierten Qualitätsziele bspw.:
-      	* |  Festlegen von Zeiträumen zur regelmäßigen 
-          |  Überprüfung der Aktualität (Aktualität)
-        * Identifizieren von Freifeldern im DMP (Vollständigkeit)
-
+  * - |  2.4.1: Es werden quantitative 
+			|  Qualitätsziele für die Datenerhebung 
+			|  und Datenqualität definiert und etabliert
+    - * |  Bestimmung zu überprüfender Qualitätsaspekte bei der Datenerhebung
+			* |  Identifizieren und einbeziehen relevanter Qualitätsmetriken
+  * - |  2.4.2: Kontrolle der Datenqualität 
+			|  während und nach der Datenerhebung 
+			|  (Analyse der Daten hinsichtlich der 
+			|  Datenqualität -> keine inhaltliche 
+			|  Analyse zur Beantwortung der 
+			|  Forschungsfrage)
+    - * | Überprüfen der Datenqualität im Hinblick auf definierte Merkmale (bspw. 
+				|  Korrektheit, Vollständigkeit,...)
+      * |  Anwendung identifizierter Qualitätsmetriken
+			* |  Dokumentation kontextueller (Meta-)Daten im Zusammenhang mit der 
+				|  Datenqualität 
+	* - |  2.4.3: Reaktive 
+			|  Experimentanpassungen bei der 
+			|  Datenerhebung definiert und etabliert
+		- * |  Identifizieren möglicher Fehlerquellen
+				|  Bereitstellen von Ersatz beim Ausfall und Fehlern
+				|  Überprüfen der Messinstrumente vor und während der Datenerhebung 
+				|  Maßnahmen bei detektierten Ausfällen und Fehlern inline ergreifen
 
 =========
 Level 5
@@ -190,29 +202,37 @@ Level 5
 
   * - Ziele
     - Praktiken
-  * - |  1.5.1: Die Planung der Prozesse werden kontinuierlich 
-      |  und proaktiv verbessert und angepasst
-    - * |  FDM-Pläne und -Verfahren werden regelmäßig auf
-        |  Grundlage der Qualitätsziele bewertet und 
-        |  wenn möglich verbessert und angepasst
-      * |  Strukturelle Hilfsmittel (Vorlagen, DMP-Tools, etc.) 
-        |  werden verwendet und optimiert
-  * - |  1.5.2: Prozesse und Pläne werden mit Hilfe von bewährten
-      |  Verfahren entwickelt und kontinuierlich angepasst und 
-      |  mit der fachspezifischen Community kommuniziert
+  * - |  2.5.1: Die Feldexperimente werden kontinuierlich und 
+			|  proaktiv verbessert und angepasst
+    - * |  Verbessern und anpassen der Feldexperimente auf 
+				|  Grundlage von Feedback und neuen Standards in der 
+				|  fachspezifischen Community
+  * - |  2.5.2: Inhalte im Zusammenhang mit Strukturen oder 
+			|  Versuchsplanungen, Versuchsdurchführungen, 
+			|  Dokumentationsstandards und bewährten Verfahren 
+			|  werden entwickelt und proaktiv, kontinuierlich angepasst 
+			|  und verbessert
+    - * |  Einsatz und Weiterentwicklung von bewährten Verfahren 
+				|  und Standards
+      * |  Partizipieren in der Community zur Umsetzung und 
+				|  Entwicklung neuer Standards
+	* - |  2.5.3: Die Technologien, die die Datenerhebung 
+			|  ermöglichen, werden regelmäßig bewertet und 
+			|  Verbesserungen werden umgesetzt
     - * |  Entwickeln und nutzen neuer technischer Standards
-      * |  Bestehende Best Practices werden innerhalb
-        |  des Projekts genutzt und optimiert
-      * |  Ständiger Austausch mit der fachspezifischen Community
-        |  über bestehende und neue Best Practices
+      * | Austausch und entwickeln technischer Systeme in der 
+				|  fachspezifischen Community
 
 ***************************
 Weiterführende Materialien
 ***************************
 Auf der Internetseite
-`Forschungsdaten.info <https://forschungsdaten.info/themen/informieren-und-planen/>`_
-sind weiterführende Informationen zu finden.
+`Forschungsdaten.info <https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/>`_
+sind weiterführende Informationen zur Datendokumentation zu finden.
 
-`DFG Umgang mit Forschungsdaten <https://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/forschungsdaten/>`_
+`NFDI4Ing GOLO <https://nfdi4ing.de/archetypes/golo/>`_
 
-`Planungstool RDMO (NFDI4Ing) <https://rdmo.nfdi4ing.de/projects/>`_
+`Data Quality Metrics <https://quality.nfdi4ing.de/en/main/index.html>`_
+
+`UK Data Service <https://ukdataservice.ac.uk/learning-hub/research-data-management/>`_
+`UK Data Service Checkliste <https://ukdataservice.ac.uk/learning-hub/research-data-management/plan-to-share/checklist/>`_
