@@ -163,14 +163,14 @@ Level 4
 =========
 
 .. list-table::
-  :widths: 50 50
+  :widths: 10 10
   :header-rows: 1
 
   * - Ziele
     - Praktiken
-  * - |  2.4.1: Es werden quantitative 
-			|  Qualitätsziele für die Datenerhebung 
-			|  und Datenqualität definiert und etabliert
+  * - |  2.4.1: Es werden quantitative
+			|  Qualitätsziele für die Datenerhebung
+			| und Datenqualität definiert und etabliert
     - * |  Bestimmung zu überprüfender Qualitätsaspekte bei der Datenerhebung
 			* |  Identifizieren und einbeziehen relevanter Qualitätsmetriken
   * - |  2.4.2: Kontrolle der Datenqualität 
