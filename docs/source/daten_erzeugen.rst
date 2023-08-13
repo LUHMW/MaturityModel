@@ -169,23 +169,23 @@ Level 4
    * - Ziele
     - Praktiken
   * - |  2.4.1: Es werden quantitative Qualitätsziele für die 
-			|  Datenerhebung und Datenqualität definiert und etabliert
+      |  Datenerhebung und Datenqualität definiert und etabliert
     - * |  Bestimmung zu überprüfender Qualitätsaspekte bei der Datenerhebung
       * |  Identifizieren und einbeziehen relevanter Qualitätsmetriken
   * - |  2.4.2: Kontrolle der Datenqualität während und nach der
-			|  Datenerhebung (Analyse der Daten hinsichtlich der Datenqualität 
-			|  -> keine inhaltliche Analyse zur Beantwortung der Forschungsfrage)
+      |  Datenerhebung (Analyse der Daten hinsichtlich der Datenqualität 
+      |  -> keine inhaltliche Analyse zur Beantwortung der Forschungsfrage)
     - * |  Überprüfen der Datenqualität im Hinblick auf definierte
-				|  Merkmale (bspw. Korrektheit, Vollständigkeit,...)
+	|  Merkmale (bspw. Korrektheit, Vollständigkeit,...)
       * |  Anwendung identifizierter Qualitätsmetriken
-			* |  Dokumentation kontextueller (Meta-)Daten im 
-				|  Zusammenhang mit der Datenqualität
+      * |  Dokumentation kontextueller (Meta-)Daten im 
+	|  Zusammenhang mit der Datenqualität
   * - |  2.4.3: Reaktive Experimentanpassungen bei der 
-			|  Datenerhebung definiert und etabliert
+      |  Datenerhebung definiert und etabliert
     - * |  Identifizieren möglicher Fehlerquellen
-			* |  Bereitstellen von Ersatz beim Ausfall und Fehlern
-			* |  Überprüfen der Messinstrumente vor und während der Datenerhebung 
-			* |  Maßnahmen bei detektierten Ausfällen und Fehlern inline ergreifen
+      * |  Bereitstellen von Ersatz beim Ausfall und Fehlern
+      * |  Überprüfen der Messinstrumente vor und während der Datenerhebung 
+      * |  Maßnahmen bei detektierten Ausfällen und Fehlern inline ergreifen
 
 
 =========
@@ -199,25 +199,25 @@ Level 5
   * - Ziele
     - Praktiken
   * - |  2.5.1: Die Feldexperimente werden kontinuierlich und 
-			|  proaktiv verbessert und angepasst
+      |  proaktiv verbessert und angepasst
     - * |  Verbessern und anpassen der Feldexperimente auf 
-				|  Grundlage von Feedback und neuen Standards in der 
-				|  fachspezifischen Community
+	|  Grundlage von Feedback und neuen Standards in der 
+	|  fachspezifischen Community
   * - |  2.5.2: Inhalte im Zusammenhang mit Strukturen oder 
-			|  Versuchsplanungen, Versuchsdurchführungen, 
-			|  Dokumentationsstandards und bewährten Verfahren 
-			|  werden entwickelt und proaktiv, kontinuierlich angepasst 
-			|  und verbessert
+      |  Versuchsplanungen, Versuchsdurchführungen, 
+      |  Dokumentationsstandards und bewährten Verfahren 
+      |  werden entwickelt und proaktiv, kontinuierlich angepasst 
+      |  und verbessert
     - * |  Einsatz und Weiterentwicklung von bewährten Verfahren 
-				|  und Standards
+	|  und Standards
       * |  Partizipieren in der Community zur Umsetzung und 
-				|  Entwicklung neuer Standards
-	* - |  2.5.3: Die Technologien, die die Datenerhebung 
-			|  ermöglichen, werden regelmäßig bewertet und 
-			|  Verbesserungen werden umgesetzt
+	|  Entwicklung neuer Standards
+  * - |  2.5.3: Die Technologien, die die Datenerhebung 
+      |  ermöglichen, werden regelmäßig bewertet und 
+      |  Verbesserungen werden umgesetzt
     - * |  Entwickeln und nutzen neuer technischer Standards
       * |  Austausch und entwickeln technischer Systeme in der 
-				|  fachspezifischen Community
+	|  fachspezifischen Community
 
 ***************************
 Weiterführende Materialien
