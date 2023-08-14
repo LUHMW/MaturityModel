@@ -156,7 +156,7 @@ Level 4
 +=======================================================+==========================================================+
 | 2.4.1: Es werden quantitative Qualitätsziele für die  | * Bestimmung zu überprüfender Qualitätsaspekte bei der   |
 |                                                       |   Datenerhebung                                          |
-|	Datenerhebung und Datenqualität definiert und         +----------------------------------------------------------+
+| Datenerhebung und Datenqualität definiert und         +----------------------------------------------------------+
 |                                                       | * Identifizieren und einbeziehen relevanter              |
 | etabliert                                             |   Qualitätsmetriken                                      |
 +-------------------------------------------------------+----------------------------------------------------------+
