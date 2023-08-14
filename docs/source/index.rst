@@ -6,6 +6,21 @@ Für jeden Abschnitt im Lebenszyklus der Daten finden Sie eine Seite mit allgeme
 diesem Abschnitt und einer Auflistung von Zielen und Praktiken für die entsprechen Reifestufen.
 
 
+.. raw:: html
+
+   <table>
+       <tr>
+           <th>Ziele</th>
+           <th>Praktiken</th>
+       </tr>
+       <tr>
+           <td style="background-color: lightblue;">2.4.1: Es werden quantitative Qualitätsziele für die Datenerhebung und Datenqualität definiert und etabliert</td>
+           <td style="background-color: lightgreen;">* Bestimmung zu überprüfender Qualitätsaspekte bei der Datenerhebung</td>
+       </tr>
+       <!-- Weitere Tabellenzeilen -->
+   </table>
+
+
 .. note::
 
    This project is under active development.
