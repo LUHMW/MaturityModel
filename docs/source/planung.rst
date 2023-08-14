@@ -36,9 +36,37 @@ Aktivitäten der Planung
 Reifestufen
 ************
 
-.. list-table::
-  :widths: 25 25 150
-  :header-rows: 1
++-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
+| Level                                                 | Reifestufe                                               | Charakteristik                                          |
++=======================================================+==========================================================+=========================================================+
+| Level 1                                               | Einstieg                                                 | * Die Planung des Forschungsdatenmanagement findet     |
+|                                                       |                                                          |   ohne definierte Vorlagen statt                        |
+|                                                       |                                                          | * Die Planung wird intuitiv und ad hoc ausgeführt       |
++-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
+| Level 2                                               | Geführt                                                  | * Es werden auf Projektebene die Inhalte eines DMPs     |
+|                                                       |                                                          |   definiert                                            |
+|                                                       |                                                          | * Die Pläne werden mit einer projekteigenen Vorlage    |
+|                                                       |                                                          |   erstellt                                             |
++-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
+| Level 3                                               | Definiert                                                | * Die Datenmanagementplanung orientiert sich an        |
+|                                                       |                                                          |   Standards aus der fachspezifischen Community         |
+|                                                       |                                                          | * Es werden Vorlagen und Services aus der Community    |
+|                                                       |                                                          |   bei der Datenmanagementplanung verwendet             |
++-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
+| Level 4                                               | Quantitativ Geführt                                      | * Es werden (quantitative) Qualitätsziele für die      |
+|                                                       |                                                          |   Datenmanagementplanung etabliert                     |
+|                                                       |                                                          | * Die Datenmanagementpläne werden auf Vollständigkeit, |
+|                                                       |                                                          |   Aktualität, und Relevanz gesichert                   |
++-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
+| Level 5                                               | Optimierend                                              | * Die Datenmanagementplanung wird proaktiv optimiert   |
+|                                                       |                                                          |   und fortlaufend verbessert (inhaltlich,             |
+|                                                       |                                                          |   organisatorisch)                                    |
+|                                                       |                                                          | * Es werden Best Practices und Verbesserungen mit     |
+|                                                       |                                                          |   der fachspezifischen Community geteilt              |
++-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
+
+Bitte beachten Sie, dass die Darstellung in ASCII möglicherweise je nach Anzeigeumgebung unterschiedlich aussehen kann.
+
 
   * - Level
     - Reifestufe
@@ -76,102 +104,115 @@ Level 1
 Level 2 
 =========
 
-.. list-table::
-  :widths: 5 10
-  :header-rows: 1
-
-  * - Ziele
-    - Praktiken
-  * - |  1.2.1: Eine Vorlage eines DMP für die
-      |  Umsetzung des Datenmanagement im 
-      |  Forschungsprojekt wird erstellt
-    - * |  Betrachtung aller wesentlichen Aspekte 
-        |  für den Umgang mit Forschungsdaten
-			* |  Berücksichtigung der Anforderungen des Fördergebers
-  * - |  1.2.2: Ziele, Prioritäten und Umfang des FDM
-      |  wird orientiert am Forschungsprojekt geplant
-      |  und bei der Antragsstellung berücksichtigt
-    - * |  Identifizierung von forschungsrelevanten Inhalten
-        |  bezüglich des Datenmanagement (bspw. Maschinen, Feldversuche, …)
-      *    Benötigte Ressourcen (Kosten, Personal, etc.)
-        |  kalkulieren und planen
-      * |  Berücksichtigung von Anforderungen des
-        |  Fördergebers zur Umsetzung des FDM
++-------------------------------------------------------+----------------------------------------------------------+
+| Ziele                                                 | Praktiken                                                |
++=======================================================+==========================================================+
+| 1.2.1: Eine Vorlage eines DMP für die Umsetzung des   | Betrachtung aller wesentlichen Aspekte für den Umgang    |
+|                                                       |                                                          |
+| Datenmanagement im Forschungsprojekt wird erstellt    | mit Forschungsdaten                                      |
+|                                                       +----------------------------------------------------------+
+|                                                       | Berücksichtigung der Anforderungen des Fördergebers      |
++-------------------------------------------------------+----------------------------------------------------------+
+| 1.2.2: Ziele, Prioritäten und Umfang des FDM wird     | Identifizierung von forschungsrelevanten Inhalten        |
+|                                                       |                                                          |
+| orientiert am Forschungsprojekt geplant und bei der   | bezüglich des Datenmanagement (bspw. Maschinen,          |
+|                                                       |                                                          |
+| Antragsstellung berücksichtigt                        | Feldversuche, …)                                         |
+|                                                       +----------------------------------------------------------+
+|                                                       | Benötigte Ressourcen (Kosten, Personal, etc.)            |
+|                                                       |                                                          |
+|                                                       | kalkulieren und planen                                   |
+|                                                       +----------------------------------------------------------+
+|                                                       | Berücksichtigung von Anforderungen des Fördergebers      |
+|                                                       |                                                          |
+|                                                       | zur Umsetzung des FDM                                    |
++-------------------------------------------------------+----------------------------------------------------------+
 
 
 ========
 Level 3
 ========
 
-.. list-table::
-  :widths: 5 10
-  :header-rows: 1
-
-  * - Ziele
-    - Praktiken
-  * - |  1.3.1: Eine Vorlage eines DMP für die
-      |  Umsetzung des Datenmanagement ist an die 
-      |  fachspezifische Community  ausgerichtet
-    - * |  Identifizieren von forschungsorientierten 
-        |  Vorlagen für einen DMP
-      * |  Verwendung einer etablierten DMP-Vorlage 
-        |  auf Basis der fachspezifischen Community
-  * - |  1.3.2: Ziele, Prioritäten und Umfang des FDM 
-      |  wird an die fachspezifische Community ausgerichtet
-    - * |  Inhaltliche Ausrichtung der Datenmanagementplanung
-        |  an die fachspezifische Community
-      * |  Berücksichtigung von domänenspezifischen 
-        |  Communitystandards in der Planung 
-        |  (möglicher Einfluss auf Projektressourcen)
++-------------------------------------------------------+----------------------------------------------------------+
+| Ziele                                                 | Praktiken                                                |
++=======================================================+==========================================================+
+| 1.3.1: Eine Vorlage eines DMP für die Umsetzung des   | Identifizieren von forschungsorientierten Vorlagen       |
+|                                                       |                                                          |
+| Datenmanagement ist an die fachspezifische Community  | für einen DMP                                            |
+|                                                       +----------------------------------------------------------+
+| ausgerichtet                                          | Verwendung einer etablierten DMP-Vorlage auf Basis       |
+|                                                       |                                                          |
+|                                                       | der fachspezifischen Community                           |
++-------------------------------------------------------+----------------------------------------------------------+
+| 1.3.2: Ziele, Prioritäten und Umfang des FDM wird     | Inhaltliche Ausrichtung der Datenmanagementplanung       |
+|                                                       |                                                          |
+| an die fachspezifische Community ausgerichtet         | an die fachspezifische Community                         |
+|                                                       +----------------------------------------------------------+
+|                                                       | Berücksichtigung von domänenspezifischen                 |
+|                                                       |                                                          |
+|                                                       | Communitystandards in der Planung                        |
+|                                                       |                                                          |
+|                                                       | (möglicher Einfluss auf Projektressourcen)               |
++-------------------------------------------------------+----------------------------------------------------------+
 
 
 =========
 Level 4
 =========
 
-.. list-table::
-  :widths: 50 50
-  :header-rows: 1
++-------------------------------------------------------+----------------------------------------------------------+
+| Ziele                                                 | Praktiken                                                |
++=======================================================+==========================================================+
+| 1.4.1: Etablierung von Qualitätszielen                | Identifizierung von Qualitätszielen                      |
+|                                                       |                                                          |
+| für die Datenmanagementplanung                        | (bspw. Aktualität, Vollständigkeit, Relevanz der         |
+|                                                       |                                                          |
+|                                                       | Inhalte, …)                                              |
++-------------------------------------------------------+----------------------------------------------------------+
+| 1.4.2: Die Qualität der DMPs wird im Projekt          | Überprüfung des DMP auf Einhaltung der etablierten       |
+|                                                       |                                                          |
+| über die gesamte Projektlaufzeit gesichert            | Qualitätsziele bspw.:                                    |
+|                                                       |                                                          |
+|                                                       | * Festlegen von Zeiträumen zur regelmäßigen              |
+|                                                       |                                                          |
+|                                                       |   Überprüfung der Aktualität (Aktualität)                |
+|                                                       |                                                          |
+|                                                       | * Identifizieren von Freifeldern im DMP                  |
+|                                                       |                                                          |
+|                                                       |   (Vollständigkeit)                                      |
++-------------------------------------------------------+----------------------------------------------------------+
 
-  * - Ziele
-    - Praktiken
-  * - |  1.4.1: Etablierung von Qualitätszielen
-			|  für die Datenmanagementplanung
-    - * |  Identifizierung von Qualitätszielen 
-        |  (bspw. Aktualität, Vollständigkeit, Relevanz der Inhalte, …)
-  * - |  1.4.2: Die Qualität der DMPs wird im Projekt
-      |  über die gesamte Projektlaufzeit gesichert
-    - * | Überprüfung des DMP auf Einhaltung der etablierten Qualitätsziele bspw.:
-      	* |  Festlegen von Zeiträumen zur regelmäßigen 
-          |  Überprüfung der Aktualität (Aktualität)
-        * Identifizieren von Freifeldern im DMP (Vollständigkeit)
 
 
 =========
 Level 5
 =========
 
-.. list-table::
-  :widths: 50 50
-  :header-rows: 1
++-------------------------------------------------------+----------------------------------------------------------+
+| Ziele                                                 | Praktiken                                                |
++=======================================================+==========================================================+
+| 1.5.1: Die Planung der Prozesse werden kontinuierlich | FDM-Pläne und -Verfahren werden regelmäßig auf           |
+|                                                       |                                                          |
+| und proaktiv verbessert und angepasst                 | Grundlage der Qualitätsziele bewertet und wenn möglich   |
+|                                                       |                                                          |
+|                                                       | verbessert und angepasst                                 |
+|                                                       +----------------------------------------------------------+
+|                                                       | Strukturelle Hilfsmittel (Vorlagen, DMP-Tools, etc.)     |
+|                                                       |                                                          |
+|                                                       | werden verwendet und optimiert                           |
++-------------------------------------------------------+----------------------------------------------------------+
+| 1.5.2: Prozesse und Pläne werden mit Hilfe von        | Entwickeln und nutzen neuer technischer Standards        |
+|                                                       |                                                          |
+| bewährten Verfahren entwickelt und kontinuierlich     | Bestehende Best Practices werden innerhalb des           |
+|                                                       +----------------------------------------------------------+
+| angepasst und mit der fachspezifischen Community      | Projekts genutzt und optimiert                           |
+|                                                       +----------------------------------------------------------+
+| kommuniziert                                          | Ständiger Austausch mit der fachspezifischen             |
+|                                                       |                                                          |
+|                                                       | Community über bestehende und neue Best Practices        |
++-------------------------------------------------------+----------------------------------------------------------+
 
-  * - Ziele
-    - Praktiken
-  * - |  1.5.1: Die Planung der Prozesse werden kontinuierlich 
-      |  und proaktiv verbessert und angepasst
-    - * |  FDM-Pläne und -Verfahren werden regelmäßig auf
-        |  Grundlage der Qualitätsziele bewertet und 
-        |  wenn möglich verbessert und angepasst
-      * |  Strukturelle Hilfsmittel (Vorlagen, DMP-Tools, etc.) 
-        |  werden verwendet und optimiert
-  * - |  1.5.2: Prozesse und Pläne werden mit Hilfe von bewährten
-      |  Verfahren entwickelt und kontinuierlich angepasst und 
-      |  mit der fachspezifischen Community kommuniziert
-    - * |  Entwickeln und nutzen neuer technischer Standards
-      * |  Bestehende Best Practices werden innerhalb
-        |  des Projekts genutzt und optimiert
-      * |  Ständiger Austausch mit der fachspezifischen Community
-        |  über bestehende und neue Best Practices
+
 
 ***************************
 Weiterführende Materialien
