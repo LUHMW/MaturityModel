@@ -135,35 +135,35 @@ Level 3
 +-------------------------------------------------------+----------------------------------------------------------+
 | Ziele                                                 | Praktiken                                                |
 +=======================================================+==========================================================+
-| 2.3.1: Datenerhebung und technische Systeme 	        | * Identifizierung und Anwendung standardisierter         |
+| 2.3.1: Datenerhebung und technische Systeme 	        | Identifizierung und Anwendung standardisierter           |
 |                                                       |                                                          |
-|                                                       |   Erhebungsprozesse innerhalb der Domäne (Best Practices)|
+|                                                       | Erhebungsprozesse innerhalb der Domäne (Best Practices)  |
 | entsprechen domänenspezifischer                       +----------------------------------------------------------+
-|                                                       | * Identifizierung weiterer zu erhebende                  |
+|                                                       | Identifizierung weiterer zu erhebende                    |
 |                                                       |                                                          |
-| syntaktischer Standards                               |   Beobachtungseinheiten und Eigenschaften (Zweckdaten    |
+| syntaktischer Standards                               | Beobachtungseinheiten und Eigenschaften (Zweckdaten      |
 |                                                       |                                                          |
-|                                                       |   und Nebendaten) mit Relevanz für eine                  |
+|                                                       | und Nebendaten) mit Relevanz für eine                    |
 |                                                       |                                                          |
-|                                                       |   communityorientierte Nachnutzung                       |
+|                                                       | communityorientierte Nachnutzung                         |
 |                                                       +----------------------------------------------------------|
-|                                                       |  Verwendung standardisierter technischer Systemen        |
+|                                                       | Verwendung standardisierter technischer Systemen         |
 |                                                       |                                                          |
-|                                                       |  in der Domäne                                           |
+|                                                       | in der Domäne                                            |
 +-------------------------------------------------------+----------------------------------------------------------+
-| 2.3.2: Felddokumentation an domänen- und              | * Recherchebasierte Auswahl eines                        |
+| 2.3.2: Felddokumentation an domänen- und              | Recherchebasierte Auswahl eines                          |
 |                                                       |                                                          |
-|                                                       |   Dokumentationsinstruments angelehnt an                 |
+|                                                       | Dokumentationsinstruments angelehnt an                   |
 |                                                       |                                                          |
-|                                                       |   domänenspezifische Standards                           |
+|                                                       | domänenspezifische Standards                             |
 | experimentspezifischen Standards ausrichten           +----------------------------------------------------------+
-|                                                       | * Identifizierung von Standards für die Terminologie und |
+|                                                       | Identifizierung von Standards für die Terminologie und   |
 |                                                       |                                                          |
-|                                                       |   Schemata der zu dokumentierenden Feldgegebenheiten     |
+|                                                       | Schemata der zu dokumentierenden Feldgegebenheiten       |
 +-------------------------------------------------------+----------------------------------------------------------+
-| 2.3.3: Redundanz zwischen Felddokumentation und       | * Verknüpfung zwischen Felddokumentation und             |
+| 2.3.3: Redundanz zwischen Felddokumentation und       | Verknüpfung zwischen Felddokumentation und               |
 |                                                       |                                                          |
-| Datenerfassung minieren                               |   technischem System                                     |
+| Datenerfassung minieren                               | technischem System                                       |
 +-------------------------------------------------------+----------------------------------------------------------+
 
 
