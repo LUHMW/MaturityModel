@@ -51,12 +51,10 @@ Reifestufen
     - Geführt
     - * Der Datenzugriff wird entsprechend definierter Richtlinien geplant und durchgeführt
       * Prozesse werden auf Projekt-/Organisationsebene beschrieben
-      * Forschende wissen, wie Daten zugänglich gemacht werden sollen und es stehen
-notwendige Ressourcen zur Verfügung
+      * Forschende wissen, wie Daten zugänglich gemacht werden sollen und es stehen notwendige Ressourcen zur Verfügung
   * - Level 3
     - Definiert
-    - * Der Datenzugriff wird auf Grundlage domänenspezifischer communityorientierter
-Standards und Regularien charakterisiert
+    - * Der Datenzugriff wird auf Grundlage domänenspezifischer communityorientierter Standards und Regularien charakterisiert
       * Spezifische Anforderungen werden auf Basis domänenorientierter Richtlinien entwickelt und festgelegt
       * Der Datenzugang ist über die Projektlaufzeit gesichert
   * - Level 4 
@@ -66,8 +64,7 @@ Standards und Regularien charakterisiert
       * Die Qualität der zugänglich gemachten Daten wird gesichert
   * - Level 5
     - Optimierend
-    - * Kontinuierliche Verbesserung des Datenzugriffs durch Technologie- und
-Prozessverbesserungen
+    - * Kontinuierliche Verbesserung des Datenzugriffs durch Technologie- und Prozessverbesserungen
       * Entwicklung und Überarbeitung von Best Practices
 =========
 Level 1
@@ -82,122 +79,123 @@ Daten intuitiv abläuft
 Level 2 
 =========
 
-.. list-table::
-  :widths: 5 10
-  :header-rows: 1
++-------------------------------------------------------+----------------------------------------------------------+
+| Ziele                                                 | Praktiken                                                |
++=======================================================+==========================================================+
+| 5.2.1: Die Organisation und Durchführung zugänglich zu| Festlegen, welche Daten geteilt werden sollen            |
+|                                                       +----------------------------------------------------------+
+| machender Daten wird auf Projekt-/Organisationsebene  | Festlegen, für wen Daten zugänglich gemacht werden       |
+|                                                       |                                                          |
+| behandelt und definiert.                              | dürfen                                                   |
+|                                                       +----------------------------------------------------------+
+|                                                       | Festlegen, wie die Daten nachgenutzt werden dürfen       |
++-------------------------------------------------------+----------------------------------------------------------+
+| 5.2.2: Zugänglich gemachte Daten sind entsprechend    | Beschreiben der Daten mit allgemeinen Metadaten          |
+|                                                       +----------------------------------------------------------+
+| allgemeiner Beschreibungen auffindbar                 | Bereitstellen der Daten mit einem Unique Identifier      |
++-------------------------------------------------------+----------------------------------------------------------+
+| 5.2.3: Der Speicherort zugänglich zu machender Daten  | Ermitteln und definieren von Anforderungen an die        |
+|                                                       |                                                          |
+| wird auf Projekt-/Organisationsebene definiert und    | projektinterne Nutzung eines Speicherorts                |
+|                                                       +----------------------------------------------------------+
+| ermöglicht den Zugang und das Auffinden von Daten     | Auswahl und Bestimmung eines Speicherorts                |
+|                                                       |                                                          |
+|                                                       | (Repositorium)                                           |
++-------------------------------------------------------+----------------------------------------------------------+
 
-  * - Ziele
-    - Praktiken
-  * - |  5.2.1: Die Organisation und Durchführung zugänglich zu
-      |  machender Daten wird auf Projekt-/Organisationsebene 
-      |  behandelt und definiert.
-    - * |  Festlegen, welche Daten geteilt werden sollen
-      * |  Festlegen, für wen Daten zugänglich gemacht werden dürfen
-      * |  Festlegen, wie die Daten nachgenutzt werden dürfen
-  * - |  5.2.2: Zugänglich gemachte Daten sind entsprechend
-      |  allgemeiner Beschreibungen auffindbar
-    - * |  Beschreiben der Daten mit allgemeinen Metadaten
-      * | Bereitstellen der Daten mit einem Unique Identifier
-  * - |  5.2.3: Der Speicherort zugänglich zu machender Daten
-      |  wird auf Projekt-/Organisationsebene definiert und
-      |  ermöglicht den Zugang und das Auffinden von Daten
-    - * |  Ermitteln und definieren von Anforderungen an die
-        |  projektinterne Nutzung eines Speicherorts
-      * |  Auswahl und Bestimmung eines Speicherorts
-        |  (Repositorium)
-
-
+ 
 ========
 Level 3
 ========
 
-.. list-table::
-  :widths: 5 10
-  :header-rows: 1
-
-  * - Ziele
-    - Praktiken
-  * - |  5.3.1: Das Management des Datenzugangs wird nach
-      |  communityorientierten und fachspezifischen Standards
-      |  ausgerichtet
-    - * |  Identifizieren und einbeziehen von gemeinschaftsweiten
-        |  Regelungen und Standards (Best Practices)
-  * - |  5.3.2: Die Auffindbarkeit der Daten wird an einen
-      |  fachspezifischen Kontext ausgerichtet
-    - * |  Beschreiben der Daten mit fachspezifischen Metadaten
-  * - |  5.3.3: Die Daten lassen sich mit anderen Daten integrieren
-      |  und können ohne weitere Systeme interpretiert werden
-    - * |  Verwenden einer formalen, zugänglichen Beschreibung zur
-        |  Wissenspräsentation der Daten
-      * |  Verweis auf prozessrelevante und verwandte (Meta-)Daten
-  * - |  5.3.4: Die Nachnutzbarkeit der zugänglich gemachten
-      |  Daten ist gewährleistet und entsprechen
-      |  Gemeinschaftsstandards des Fachgebiets
-    - * |  Beschreiben von Daten mit kontextrelevanten Attributen
-      * |  Teilen der Daten in einem etablierten Datenformat
-      * |  Verwenden von domänenrelevanten Metadatenstandards
-  * - |  5.3.5: Die verwendeten technischen Systeme erfüllen die
-      |  definierten Standards und Anforderungen der Domäne
-    - * |  Entwickeln oder Auswahl eines technischen Systems, das
-        |  die Anforderungen der Standards erfüllt
++-------------------------------------------------------+----------------------------------------------------------+
+| Ziele                                                 | Praktiken                                                |
++=======================================================+==========================================================+
+| 5.3.1: Das Management des Datenzugangs wird nach      | Identifizieren und einbeziehen von gemeinschaftsweiten   |
+|                                                       |                                                          |
+| communityorientierten und fachspezifischen Standards  | Regelungen und Standards (Best Practices)                |
+|                                                       |                                                          |
+| ausgerichtet                                          |                                                          |
++-------------------------------------------------------+----------------------------------------------------------+
+| 5.3.2: Die Auffindbarkeit der Daten wird an einen     | Beschreiben der Daten mit fachspezifischen Metadaten     |
+|                                                       |                                                          |
+| fachspezifischen Kontext ausgerichtet                 |                                                          |
++-------------------------------------------------------+----------------------------------------------------------+
+| 5.3.3: Die Daten lassen sich mit anderen Daten        | Verwenden einer formalen, zugänglichen Beschreibung      |
+|                                                       |                                                          |
+| integrieren und können ohne weitere Systeme           | zur Wissenspräsentation der Daten                        |
+|                                                       +----------------------------------------------------------+
+| interpretiert werden                                  | Verweis auf prozessrelevante und verwandte (Meta-)Daten  |
++-------------------------------------------------------+----------------------------------------------------------+
+| 5.3.4: Die Nachnutzbarkeit der zugänglich gemachten   | Beschreiben von Daten mit kontextrelevanten Attributen   |
+|                                                       +----------------------------------------------------------+
+| Daten ist gewährleistet und entsprechen               | Teilen der Daten in einem etablierten Datenformat        |
+|                                                       +----------------------------------------------------------+
+| Gemeinschaftsstandards des Fachgebiets                | Verwenden von domänenrelevanten Metadatenstandards       |
++-------------------------------------------------------+----------------------------------------------------------+
+| 5.3.5: Die verwendeten technischen Systeme erfüllen   | Entwickeln oder Auswahl eines technischen Systems,       |
+|                                                       |                                                          |
+| die definierten Standards und Anforderungen der Domäne| das die Anforderungen der Standards erfüllt              |
++-------------------------------------------------------+----------------------------------------------------------+
 
 
 =========
 Level 4
 =========
 
-.. list-table::
-  :widths: 50 50
-  :header-rows: 1
++-------------------------------------------------------+----------------------------------------------------------+
+| Ziele                                                 | Praktiken                                                |
++=======================================================+==========================================================+
+| 5.4.1: Es werden quantitative Qualitätsziele für den  | Identifizieren und einbeziehen von Metriken              |
+|                                                       +----------------------------------------------------------+
+| Datenzugang etabliert                                 | Definieren von KPIs für die Qualitätskontrolle           |
+|                                                       +----------------------------------------------------------+
+|                                                       | Etablieren von quantitative Qualitätsziele               |
++-------------------------------------------------------+----------------------------------------------------------+
+| 5.4.2: Die Datenqualität der zugänglich gemachten     | Überprüfen der Ausführung im Hinblick auf definierte     |
+|                                                       |                                                          |
+| Daten wird sichergestellt                             | relevante Merkmale                                       |
+|                                                       +----------------------------------------------------------+
+|                                                       | Einführen von Rückmeldungen zur Datenqualität            | 
+|                                                       |                                                          |
+|                                                       | und Umsetzung                                            |
++-------------------------------------------------------+----------------------------------------------------------+
+| 5.4.3: Durchführung von Qualitätssicherungsmaßnahmen  | Definieren von Überprüfungsmechanismen zur vollständigen |
+|                                                       |                                                          |
+| auf der Grundlage technischer Lösungen                | und korrekten Nutzung der technischen Systeme            |
+|                                                       +----------------------------------------------------------+
+|                                                       | Entwickeln von Qualitätssicherungsmaßnahmen für die      |
+|                                                       |                                                          |
+|                                                       | technischen Lösungen                                     |
++-------------------------------------------------------+----------------------------------------------------------+
 
-  * - Ziele
-    - Praktiken
-  * - |  5.4.1: Es werden quantitative Qualitätsziele für den
-      |  Datenzugang etabliert
-    - * |  Identifizieren und einbeziehen von Metriken
-      * |  Definieren von KPIs für die Qualitätskontrolle
-      * |  Etablieren von quantitative Qualitätsziele
-  * - |  5.4.2: Die Datenqualität der zugänglich gemachten 
-      |  Daten wird sichergestellt
-    - * |  Überprüfen der Ausführung im Hinblick auf definierte
-        |  relevante Merkmale
-      * |  Einführen von Rückmeldungen zur Datenqualität
-        |  und Umsetzung
-  * - |  5.4.3: Durchführung von Qualitätssicherungsmaßnahmen
-      |  auf der Grundlage technischer Lösungen
-    - * |  Definieren von Überprüfungsmechanismen zur vollständigen
-        |  und korrekten Nutzung der technischen Systeme
-      * |  Entwickeln von Qualitätssicherungsmaßnahmen für die
-        |  technischen Lösungen
-
-
+  
 =========
 Level 5
 =========
 
-.. list-table::
-  :widths: 50 50
-  :header-rows: 1
++-------------------------------------------------------+----------------------------------------------------------+
+| Ziele                                                 | Praktiken                                                |
++=======================================================+==========================================================+
+| 5.5.1: Die definierten Prozesse werden kontinuierlich | Verbessern und anpassen des Managements des              |
+|                                                       |                                                          |
+| und proaktiv verbessert und angepasst                 | Datenzugangs auf Grundlage von Feedback und neuen        |
+|                                                       |                                                          |
+|                                                       | Standards des Fachbereichs                               |
++-------------------------------------------------------+----------------------------------------------------------+
+| 5.5.2: Prozesse im Zusammenhang mit Strukturen oder   | Einsatz von bewährten Verfahren und Schulungen           |
+|                                                       |                                                          |
+| Plänen, Schulungen und bewährten Verfahren werden     | Ständiger Austausch mit der Community und Umsetzung      |
+|                                                       +----------------------------------------------------------+
+| entwickelt und kontinuierlich angepasst               | neuer Standards                                          |
++-------------------------------------------------------+----------------------------------------------------------+
+| 5.5.3: Die Technologien, die den Datenzugang          | Entwickeln und nutzen neuer technischer Standards        |
+|                                                       |                                                          |
+| ermöglichen, werden regelmäßig bewertet und           | Austausch und Entwickelung technischer Systeme in der    |
+|                                                       +----------------------------------------------------------+
+| Verbesserungen werden umgesetzt.                      | fachspezifischen Community                               |
++-------------------------------------------------------+----------------------------------------------------------+
 
-  * - Ziele
-    - Praktiken
-  * - |  5.5.1: Die definierten Prozesse werden kontinuierlich und
-      |  proaktiv verbessert und angepasst
-    - * |  Verbessern und anpassen des Managements des
-        |  Datenzugangs auf Grundlage von Feedback und neuen
-        |  Standards des Fachbereichs
-  * - | 5.5.2: Prozesse im Zusammenhang mit Strukturen oder
-      |  Plänen, Schulungen und bewährten Verfahren werden
-      |  entwickelt und kontinuierlich angepasst
-    - * Einsatz von bewährten Verfahren und Schulungen
-      * |  Ständiger Austausch mit der Community und Umsetzung
-        |  neuer Standards
-  * - |  5.5.3: Die Technologien, die den Datenzugang
-      |  ermöglichen, werden regelmäßig bewertet und
-      |  Verbesserungen werden umgesetzt.
-    - * Entwickeln und nutzen neuer technischer Standards
-      * |  Austausch und Entwickelung technischer Systeme in der
-        |  fachspezifischen Community
 
 ***************************
 Weiterführende Materialien
