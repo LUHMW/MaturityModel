@@ -18,7 +18,6 @@ Abschnitte des FDM-Zyklus
 * :ref:`Analyse`
 * :ref:`Archivierung`
 * :ref:`Zugriff`
-* :ref:`Nachnutzung`
 
 .. toctree::
    :caption: Reifegradmodell
@@ -35,5 +34,4 @@ Abschnitte des FDM-Zyklus
    analyse
    archivierung
    zugriff
-   nachnutzung
    
