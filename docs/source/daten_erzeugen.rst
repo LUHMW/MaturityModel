@@ -1,4 +1,4 @@
-
+.. Daten Erzeugen_
 
 
 #################################
@@ -132,30 +132,39 @@ Level 3
 .. list-table::
   :widths: 5 10
   :header-rows: 1
-
-  * - Ziele
-    - Praktiken
-  * - |  2.3.1: Datenerhebung und technische Systeme 
-      |  entsprechen domänenspezifischer syntaktischer Standards
-    - * |  Identifizierung und Anwendung standardisierter 
-        |  Erhebungsprozesse innerhalb der Domäne (Best Practices)
-      * |  Identifizierung weiterer zu erhebende 
-        |  Beobachtungseinheiten und Eigenschaften (Zweckdaten 
-        |  und Nebendaten) mit Relevanz für eine 
-        |  communityorientierte Nachnutzung
-      * |  Verwendung standardisierter technischer Systemen in der 
-        |  Domäne
-  * - |  2.3.2: Felddokumentation an domänen- und 
-      |  experimentspezifischen Standards ausrichten
-    - * |  Recherchebasierte Auswahl eines 
-        |  Dokumentationsinstruments angelehnt an 
-        |  domänenspezifische Standards
-      * |  Identifizierung von Standards für die Terminologie und 
-        |  Schemata der zu dokumentierenden Feldgegebenheiten
-  * - |  2.3.3: Redundanz zwischen Felddokumentation und 
-      |  Datenerfassung minieren
-    - * |  Verknüpfung zwischen Felddokumentation und technischem 
-        |  System
++-------------------------------------------------------+----------------------------------------------------------+
+| Ziele                                                 | Praktiken                                                |
++=======================================================+==========================================================+
+| 2.3.1: Datenerhebung und technische Systeme 	        | * Identifizierung und Anwendung standardisierter         |
+|                                                       |                                                          |
+|                                                       |   Erhebungsprozesse innerhalb der Domäne (Best Practices)|
+| entsprechen domänenspezifischer                       +----------------------------------------------------------+
+|                                                       | * Identifizierung weiterer zu erhebende                  |
+|                                                       |                                                          |
+| syntaktischer Standards                               |   Beobachtungseinheiten und Eigenschaften (Zweckdaten    |
+|                                                       |                                                          |
+|                                                       |   und Nebendaten) mit Relevanz für eine                  |
+|                                                       |                                                          |
+|                                                       |   communityorientierte Nachnutzung                       |
+|                                                       +----------------------------------------------------------|
+|                                                       |  Verwendung standardisierter technischer Systemen        |
+|                                                       |                                                          |
+|                                                       |  in der Domäne                                           |
++-------------------------------------------------------+----------------------------------------------------------+
+| 2.3.2: Felddokumentation an domänen- und              | * Recherchebasierte Auswahl eines                        |
+|                                                       |                                                          |
+|                                                       |   Dokumentationsinstruments angelehnt an                 |
+|                                                       |                                                          |
+|                                                       |   domänenspezifische Standards                           |
+| experimentspezifischen Standards ausrichten           +----------------------------------------------------------+
+|                                                       | * Identifizierung von Standards für die Terminologie und |
+|                                                       |                                                          |
+|                                                       |   Schemata der zu dokumentierenden Feldgegebenheiten     |
++-------------------------------------------------------+----------------------------------------------------------+
+| 2.3.3: Redundanz zwischen Felddokumentation und       | * Verknüpfung zwischen Felddokumentation und             |
+|                                                       |                                                          |
+| Datenerfassung minieren                               |   technischem System                                     |
++-------------------------------------------------------+----------------------------------------------------------+
 
 
 =========
@@ -165,24 +174,29 @@ Level 4
 | Ziele                                                 | Praktiken                                                |
 +=======================================================+==========================================================+
 | 2.4.1: Es werden quantitative Qualitätsziele für die  | * Bestimmung zu überprüfender Qualitätsaspekte bei der   |
-| Datenerhebung und Datenqualität definiert und         | Datenerhebung                                            |
-| etabliert                                             | * Identifizieren und einbeziehen relevanter              |
-|                                                       | Qualitätsmetriken                                        |
+|                                                       |   Datenerhebung                                          |
+| Datenerhebung und Datenqualität definiert und         +----------------------------------------------------------+
+|                                                       | * Identifizieren und einbeziehen relevanter              |
+| etabliert                                             |   Qualitätsmetriken                                      |
 +-------------------------------------------------------+----------------------------------------------------------+
 | 2.4.2: Kontrolle der Datenqualität während und nach   | * Überprüfen der Datenqualität im Hinblick auf definierte|
-| der Datenerhebung (Analyse der Daten hinsichtlich der |   Merkmale (bspw. Korrektheit, Vollständigkeit,...)        |
-| Datenqualität -> keine inhaltliche Analyse zur        | * Anwendung identifizierter Qualitätsmetriken            |
-| Beantwortung der Forschungsfrage)                     | * Dokumentation kontextueller (Meta-)Daten im            |
-|                                                       | Zusammenhang mit der Datenqualität                       |
+|                                                       |   Merkmale (bspw. Korrektheit, Vollständigkeit,...)      |
+| der Datenerhebung (Analyse der Daten hinsichtlich der +----------------------------------------------------------+
+|                                                       | * Anwendung identifizierter Qualitätsmetriken            |
+| Datenqualität -> keine inhaltliche Analyse zur        +----------------------------------------------------------+
+|                                                       | * Dokumentation kontextueller (Meta-)Daten im            |
+| Beantwortung der Forschungsfrage)                     |   Zusammenhang mit der Datenqualität                     |
 +-------------------------------------------------------+----------------------------------------------------------+
 | 2.4.3: Reaktive Experimentanpassungen bei der         | * Identifizieren möglicher Fehlerquellen                 |
+|                                                       +----------------------------------------------------------+
 | Datenerhebung definiert und etabliert                 | * Bereitstellen von Ersatz beim Ausfall und Fehlern      |
+|                                                       +----------------------------------------------------------+
 |                                                       | * Überprüfen der Messinstrumente vor und während der     |
-|                                                       | Datenerhebung                                            |
+|                                                       |   Datenerhebung                                          |
+|                                                       +----------------------------------------------------------+
 |                                                       | * Maßnahmen bei detektierten Ausfällen und Fehlern       |
-|                                                       | inline ergreifen                                         |
+|                                                       |   inline ergreifen                                       |
 +-------------------------------------------------------+----------------------------------------------------------+
-
 
 
 =========
