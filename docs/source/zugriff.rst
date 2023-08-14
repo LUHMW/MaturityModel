@@ -36,36 +36,60 @@ Aktivitäten Daten zugänglich zu machen
 Reifestufen
 ************
 
-.. list-table::
-  :widths: 25 25 150
-  :header-rows: 1
++--------+-------------------+---------------------------------------------------------+
+| Level  | Reifestufe        | Charakteristik                                          |
++========+===================+=========================================================+
+| Level 1| Einstieg          | Daten werden ad hoc und reaktiv zugänglich gemacht      |
+|        |                   +---------------------------------------------------------+
+|        |                   | Es sind keine Arbeitsabläufe für den Datenzugriff auf   |
+|        |                   |                                                         |
+|        |                   | Projekt-/Organisationsebene vorhanden                   |
++--------+-------------------+---------------------------------------------------------+
+| Level 2| Geführt           | Der Datenzugriff wird entsprechend definierter          |
+|        |                   |                                                         |
+|        |                   | Richtlinien geplant und durchgeführt                    |
+|        |                   +---------------------------------------------------------+
+|        |                   | Prozesse werden auf Projekt-/Organisationsebene         |
+|        |                   |                                                         |
+|        |                   | beschrieben                                             |
+|        |                   +---------------------------------------------------------+
+|        |                   | Forschende wissen, wie Daten zugänglich gemacht         |
+|        |                   |                                                         |
+|        |                   | werden sollen und es stehen notwendige Ressourcen       |
+|        |                   |                                                         |
+|        |                   | zur Verfügung                                           |
++--------+-------------------+---------------------------------------------------------+
+| Level 3| Definiert         | Der Datenzugriff wird auf Grundlage                     |
+|        |                   |                                                         |
+|        |                   | domänenspezifischer communityorientierter Standards     |
+|        |                   |                                                         |
+|        |                   | und Regularien charakterisiert                          |
+|        |                   +---------------------------------------------------------+
+|        |                   | Spezifische Anforderungen werden auf Basis              |
+|        |                   |                                                         |
+|        |                   | domänenorientierter Richtlinien entwickelt und          |
+|        |                   |                                                         |
+|        |                   | festgelegt                                              |
+|        |                   +---------------------------------------------------------+
+|        |                   | Der Datenzugang ist über die Projektlaufzeit gesichert  |
++--------+-------------------+---------------------------------------------------------+
+| Level 4| Quantitativ       | Einführung und Festlegung von quantitativen Zielen      |
+|        |                   +---------------------------------------------------------+
+|        | Geführt           | Metriken für die Verwaltung des Datenzugriffs werden    |
+|        |                   |                                                         |
+|        |                   | definiert und angewendet                                |
+|        |                   +---------------------------------------------------------+
+|        |                   | Die Qualität der zugänglich gemachten Daten wird        |
+|        |                   |                                                         |
+|        |                   | gesichert                                               |
++--------+-------------------+---------------------------------------------------------+
+| Level 5| Optimierend       | Kontinuierliche Verbesserung des Datenzugriffs durch    |
+|        |                   |                                                         |
+|        |                   | Technologie- und Prozessverbesserungen                  |
+|        |                   +---------------------------------------------------------+
+|        |                   | Entwicklung und Überarbeitung von Best Practices        |
++--------+-------------------+---------------------------------------------------------+
 
-  * - Level
-    - Reifestufe
-    - Charakteristik
-  * - Level 1
-    - Einstieg
-    - * Daten werden ad hoc und reaktiv zugänglich gemacht
-      * Es sind keine Arbeitsabläufe für den Datenzugriff auf Projekt-/Organisationsebene vorhanden
-  * - Level 2
-    - Geführt
-    - * Der Datenzugriff wird entsprechend definierter Richtlinien geplant und durchgeführt
-      * Prozesse werden auf Projekt-/Organisationsebene beschrieben
-      * Forschende wissen, wie Daten zugänglich gemacht werden sollen und es stehen notwendige Ressourcen zur Verfügung
-  * - Level 3
-    - Definiert
-    - * Der Datenzugriff wird auf Grundlage domänenspezifischer communityorientierter Standards und Regularien charakterisiert
-      * Spezifische Anforderungen werden auf Basis domänenorientierter Richtlinien entwickelt und festgelegt
-      * Der Datenzugang ist über die Projektlaufzeit gesichert
-  * - Level 4 
-    - Quantitativ Geführt
-    - * Einführung und Festlegung von quantitativen Zielen
-      * Metriken für die Verwaltung des Datenzugriffs werden definiert und angewendet
-      * Die Qualität der zugänglich gemachten Daten wird gesichert
-  * - Level 5
-    - Optimierend
-    - * Kontinuierliche Verbesserung des Datenzugriffs durch Technologie- und Prozessverbesserungen
-      * Entwicklung und Überarbeitung von Best Practices
 =========
 Level 1
 =========
