@@ -96,7 +96,37 @@ Level 1
 ========
 Level 2
 ========
-
++-------------------------------------------------------+----------------------------------------------------------+
+| Ziele                                                 | Praktiken                                                |
++=======================================================+==========================================================+
+| 2.2.1: Messungen repräsentieren die zugrunde gelegten | Bestimmung der zu erhebenden Beobachtungseinheiten und   |
+|                                                       |                                                          |
+| theoretischen Konstrukte hinreichend für das Projekt  | Eigenschaften - Zielgrößendefinition (Messdaten mit      |
+|                                                       |                                                          |
+|                                                       | direkten Bezug zur Ziel-Messgröße)                       |
+|                                                       +----------------------------------------------------------+
+| (Planung und Durchführung der Datenerhebung -         | Bestimmung des zu verwendenden Messinstruments           |
+|                                                       +----------------------------------------------------------+
+| Grundlagen)                                           | Definition der adäquaten Operationalisierung im Feld     |
+|                                                       +----------------------------------------------------------+
+|                                                       | Definition möglicher reaktiver Einflüsse des Feldes      |
+|                                                       +----------------------------------------------------------+
+|                                                       | Entwicklung eines Experimentplans auf projektdefinierte  |
+|                                                       |                                                          |
+|                                                       | Weise (experimenteinzigartig)                            |
++-------------------------------------------------------+----------------------------------------------------------+
+| 2.2.2: Felddokumentation des Experiments (auf         | Bestimmung zu dokumentierender Feldgegebenheiten         |
+|                                                       |                                                          |
+| projektorientierte, nicht standardisierte Weise)      | (allgemein und feldspezifisch) und zugehöriger           |
+|                                                       |                                                          |
+|                                                       | Eigenschaften für die Felddokumentation                  |
+|                                                       +----------------------------------------------------------+
+|                                                       | Entwicklung und Anwendung einer Dokumentationsstruktur   |
+|                                                       |                                                          |
+|                                                       | ohne Standards                                           |
+|                                                       +----------------------------------------------------------+
+|                                                       | Bestimmung der Dokumentationsart                         |
++-------------------------------------------------------+----------------------------------------------------------+
 .. list-table::
   :widths: 5 10
   :header-rows: 1
@@ -129,9 +159,6 @@ Level 2
 Level 3
 ========
 
-.. list-table::
-  :widths: 5 10
-  :header-rows: 1
 +-------------------------------------------------------+----------------------------------------------------------+
 | Ziele                                                 | Praktiken                                                |
 +=======================================================+==========================================================+
@@ -146,7 +173,7 @@ Level 3
 |                                                       | und Nebendaten) mit Relevanz für eine                    |
 |                                                       |                                                          |
 |                                                       | communityorientierte Nachnutzung                         |
-|                                                       +----------------------------------------------------------|
+|                                                       +----------------------------------------------------------+
 |                                                       | Verwendung standardisierter technischer Systemen         |
 |                                                       |                                                          |
 |                                                       | in der Domäne                                            |
@@ -202,33 +229,30 @@ Level 4
 =========
 Level 5
 =========
++-------------------------------------------------------+----------------------------------------------------------+
+| Ziele                                                 | Praktiken                                                |
++=======================================================+==========================================================+
+| 2.5.1: Die Feldexperimente werden kontinuierlich und  | Verbessern und anpassen der Feldexperimente auf          |
+|                                                       |                                                          |
+| proaktiv verbessert und angepasst                     | Grundlage von Feedback und neuen Standards in der        |
+|                                                       |                                                          |
+|                                                       | fachspezifischen Community                               |
++-------------------------------------------------------+----------------------------------------------------------+
+| 2.5.2: Inhalte im Zusammenhang mit Strukturen oder    | Einsatz und Weiterentwicklung von bewährten Verfahren    |
+|                                                       |                                                          |
+| Versuchsplanungen, Versuchsdurchführungen,            | und Standards                                            |
+|                                                       +----------------------------------------------------------+
+| werden entwickelt und proaktiv, kontinuierlich        | Partizipieren in der Community zur Umsetzung und         |
+|                                                       |                                                          |
+| angepasst und verbessert                              | Entwicklung neuer Standards                              |
++-------------------------------------------------------+----------------------------------------------------------+
+| 2.5.3: Die Technologien, die die Datenerhebung        | Entwickeln und nutzen neuer technischer Standards        |
+|                                                       +----------------------------------------------------------+
+| ermöglichen, werden regelmäßig bewertet und           | Austausch und entwickeln technischer Systeme in der      |
+|                                                       |                                                          |
+| Verbesserungen werden umgesetzt                       | fachspezifischen Community                               |
++-------------------------------------------------------+----------------------------------------------------------+
 
-.. list-table::
-  :widths: 50 50
-  :header-rows: 1
-
-  * - Ziele
-    - Praktiken
-  * - |  2.5.1: Die Feldexperimente werden kontinuierlich und 
-      |  proaktiv verbessert und angepasst
-    - * |  Verbessern und anpassen der Feldexperimente auf 
-	|  Grundlage von Feedback und neuen Standards in der 
-	|  fachspezifischen Community
-  * - |  2.5.2: Inhalte im Zusammenhang mit Strukturen oder 
-      |  Versuchsplanungen, Versuchsdurchführungen, 
-      |  Dokumentationsstandards und bewährten Verfahren 
-      |  werden entwickelt und proaktiv, kontinuierlich angepasst 
-      |  und verbessert
-    - * |  Einsatz und Weiterentwicklung von bewährten Verfahren 
-	|  und Standards
-      * |  Partizipieren in der Community zur Umsetzung und 
-	|  Entwicklung neuer Standards
-  * - |  2.5.3: Die Technologien, die die Datenerhebung 
-      |  ermöglichen, werden regelmäßig bewertet und 
-      |  Verbesserungen werden umgesetzt
-    - * |  Entwickeln und nutzen neuer technischer Standards
-      * |  Austausch und entwickeln technischer Systeme in der 
-	|  fachspezifischen Community
 
 ***************************
 Weiterführende Materialien
