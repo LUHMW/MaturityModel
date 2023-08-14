@@ -48,39 +48,45 @@ Aktivitäten von Feldexperimenten
 ************
 Reifestufen
 ************
-
-.. list-table::
-  :widths: 25 25 150
-  :header-rows: 1
-
-  * - Level
-    - Reifestufe
-    - Charakteristik
-  * - Level 1
-    - Einstieg
-    - Keine vorgegebenen Standards und Templates zur Durchführung des Feldexperiments
-	    Unstrukturierte Aufnahme der Daten
-      Felddokumentation findet ad hoc statt
-  * - Level 2
-    - Geführt
-    - Das Feldexperiment wird projektgerichtet geplant und durchgeführt 
-      Datenerfassung definierter Variablen auf Basis einer geplanten Struktur
-      Die Felddokumentation wird auf Projektebene definiert und durchgeführt (Was & Wie)
-  * - Level 3
-    - Definiert
-    - Spezifische Anforderungen werden auf Basis domänenorientierter Richtlinien entwickelt und festgelegt
-      Datenerhebung erfolgt mit in der Domäne standardisierten Instrumenten
-      Die Felddokumentation erfolgt mit Berücksichtigung domänenspezifischer Standards
-  * - Level 4 
-    - Quantitativ Geführt
-    - Einführung und Festlegung von quantitativen und qualitativen Zielen in Hinblick auf die Datenerfassung und Felddokumentation
-      Metriken für die Datenerhebung werden definiert und angewendet
-  * - Level 5
-    - Optimierend
-    - Kontinuierliche Verbesserung in der Vorbereitung und Durchführung von Feldexperimenten durch Technologie- und Prozessverbesserungen
-      Entwicklung und Überarbeitung neuer Dokumentationsstandards 
-      Entwicklung und Überarbeitung von Best Practices zur Durchführung von Feldexperimenten
-
++-----------+-------------+-----------------------------------------------------------------------------------+
+| Level     | Reifestufe  | Charakteristik                                                                    |
++===========+=============+===================================================================================+
+| Level 1   | Einstieg    | Keine vorgegebenen Standards und Templates zur Durchführung des Feldexperiments   |
+|           |             +-----------------------------------------------------------------------------------+
+|           |             | Unstrukturierte Aufnahme der Daten                                                |
+|           |             +-----------------------------------------------------------------------------------+
+|           |             | Felddokumentation findet ad hoc statt                                             |
++-----------+-------------+-----------------------------------------------------------------------------------+
+| Level 2   | Geführt     | Das Feldexperiment wird projektgerichtet geplant und durchgeführt                 |
+|           |             +-----------------------------------------------------------------------------------+
+|           |             | Datenerfassung definierter Variablen auf Basis einer geplanten Struktur           |
+|           |             +-----------------------------------------------------------------------------------+
+|           |             | Die Felddokumentation wird auf Projektebene definiert und durchgeführt (Was & Wie)| 
++-----------+-------------+-----------------------------------------------------------------------------------+
+| Level 3   | Definiert   | Spezifische Anforderungen werden auf Basis domänenorientierter                    |
+|           |             |                                                                                   |
+|           |             | Richtlinien entwickelt und festgelegt                                             |
+|           |             +-----------------------------------------------------------------------------------+
+|           |             | Datenerhebung erfolgt mit in der Domäne standardisierten Instrumenten             |
+|           |             +-----------------------------------------------------------------------------------+
+|           |             | Die Felddokumentation erfolgt mit Berücksichtigung domänenspezifischer Standards  |
++-----------+-------------+-----------------------------------------------------------------------------------+
+| Level 4   | Quantitativ | Einführung und Festlegung von quantitativen und qualitativen Zielen               |
+|           |             |                                                                                   |
+|           | geführt     | in Hinblick auf die Datenerfassung und Felddokumentation                          |
+|           |             +-----------------------------------------------------------------------------------+
+|           |             | Metriken für die Datenerhebung werden definiert und angewendet                    |
++-----------+-------------+-----------------------------------------------------------------------------------+
+| Level 5   | Optimierend | Kontinuierliche Verbesserung in der Vorbereitung und Durchführung von             |
+|           |             |                                                                                   |
+|           |             | Feldexperimenten durch Technologie- und Prozessverbesserungen                     |
+|           |             +-----------------------------------------------------------------------------------+
+|           |             | Entwicklung und Überarbeitung neuer Dokumentationsstandards                       |
+|           |             +-----------------------------------------------------------------------------------+
+|           |             | Entwicklung und Überarbeitung von Best Practices                                  |
+|           |             |                                                                                   |
+|           |             | zur Durchführung von Feldexperimenten                                             |
++-----------+-------------+-----------------------------------------------------------------------------------+
 
 =========
 Level 1
