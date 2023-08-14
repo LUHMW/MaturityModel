@@ -181,25 +181,25 @@ Level 3
            <th style="background-color: lightgray;">Praktiken</th>
        </tr>
        <tr>
-           <td rowspan="3" style="background-color: white;">2.3.1: Datenerhebung und technische Systeme entsprechen domänenspezifischer syntaktischer Standards</td>
-           <td style="background-color: white;">Identifizierung und Anwendung standardisierter Erhebungsprozesse innerhalb der Domäne (Best Practices)</td>
+           <td rowspan="3" style="background-color: white; vertical-align: middle;">2.3.1: Datenerhebung und technische Systeme entsprechen domänenspezifischer syntaktischer Standards</td>
+           <td style="background-color: white; vertical-align: middle;">Identifizierung und Anwendung standardisierter Erhebungsprozesse innerhalb der Domäne (Best Practices)</td>
        </tr>
        <tr>
-           <td style="background-color: lightgray;">Identifizierung weiterer zu erhebende Beobachtungseinheiten und Eigenschaften (Zweckdaten und Nebendaten) mit Relevanz für eine communityorientierte Nachnutzung</td>
+           <td style="background-color: lightgray; vertical-align: middle;">Identifizierung weiterer zu erhebende Beobachtungseinheiten und Eigenschaften (Zweckdaten und Nebendaten) mit Relevanz für eine communityorientierte Nachnutzung</td>
        </tr>
        <tr>
-           <td style="background-color: white;">Verwendung standardisierter technischer Systemen in der Domäne</td>
+           <td style="background-color: white; vertical-align: middle;">Verwendung standardisierter technischer Systemen in der Domäne</td>
        </tr>
        <tr>
-           <td rowspan="2" style="background-color: lightgray;">2.3.2: Felddokumentation an domänen- und experimentspezifischen Standards ausrichten</td>
-           <td style="background-color: lightgray;">Recherchebasierte Auswahl eines Dokumentationsinstruments angelehnt an domänenspezifische Standards</td>
+           <td rowspan="2" style="background-color: lightgray; vertical-align: middle;">2.3.2: Felddokumentation an domänen- und experimentspezifischen Standards ausrichten</td>
+           <td style="background-color: lightgray; vertical-align: middle;">Recherchebasierte Auswahl eines Dokumentationsinstruments angelehnt an domänenspezifische Standards</td>
        </tr>
        <tr>
-           <td style="background-color: white;">Identifizierung von Standards für die Terminologie und Schemata der zu dokumentierenden Feldgegebenheiten</td>
+           <td style="background-color: white; vertical-align: middle;">Identifizierung von Standards für die Terminologie und Schemata der zu dokumentierenden Feldgegebenheiten</td>
        </tr>
        <tr>
-           <td style="background-color: white;">2.3.3: Redundanz zwischen Felddokumentation und Datenerfassung minimieren</td>
-           <td style="background-color: lightgray;">Verknüpfung zwischen Felddokumentation und technischem System</td>
+           <td style="background-color: white; vertical-align: middle;">2.3.3: Redundanz zwischen Felddokumentation und Datenerfassung minimieren</td>
+           <td style="background-color: lightgray; vertical-align: middle;">Verknüpfung zwischen Felddokumentation und technischem System</td>
        </tr>
    </table>
 
