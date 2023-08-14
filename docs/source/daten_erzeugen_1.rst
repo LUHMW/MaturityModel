@@ -150,45 +150,31 @@ Level 3
 =========
 Level 4
 =========
-.. csv-table::
-   :header: Ziele, Praktiken
-   :widths: 20, 50
-
-   2.4.1: Quantitative Qualitätsziele für die Datenerhebung und Datenqualität definiert und etabliert, * Bestimmung zu überprüfender Qualitätsaspekte bei der Datenerhebung
-   , * Identifizieren und einbeziehen relevanter Qualitätsmetriken
-
-   2.4.2: Kontrolle der Datenqualität während und nach der Datenerhebung (Analyse der Daten hinsichtlich der Datenqualität -> keine inhaltliche Analyse zur Beantwortung der Forschungsfrage)
-   , * Überprüfen der Datenqualität im Hinblick auf definierte Merkmale (bspw. Korrektheit, Vollständigkeit,...)
-   , * Anwendung identifizierter Qualitätsmetriken
-   , * Dokumentation kontextueller (Meta-)Daten im Zusammenhang mit der Datenqualität
-
-   2.4.3: Reaktive Experimentanpassungen bei der Datenerhebung definiert und etabliert
-   , * Identifizieren möglicher Fehlerquellen
-   , * Bereitstellen von Ersatz beim Ausfall und Fehlern
-   , * Überprüfen der Messinstrumente vor und während der Datenerhebung
-   , * Maßnahmen bei detektierten Ausfällen und Fehlern inline ergreifen
 
 +-------------------------------------------------------+----------------------------------------------------------+
 | Ziele                                                 | Praktiken                                                |
 +=======================================================+==========================================================+
 | 2.4.1: Es werden quantitative Qualitätsziele für die  | * Bestimmung zu überprüfender Qualitätsaspekte bei der   |
-| Datenerhebung und Datenqualität definiert und         |   Datenerhebung                                          |
-|                                                       +----------------------------------------------------------+
-| etabliert                                             | * Identifizieren und einbeziehen relevanter              |
-|                                                       |   Qualitätsmetriken                                      |
+|                                                       |   Datenerhebung                                          |
+|	Datenerhebung und Datenqualität definiert und         +----------------------------------------------------------+
+|                                                       | * Identifizieren und einbeziehen relevanter              |
+| etabliert                                             |   Qualitätsmetriken                                      |
 +-------------------------------------------------------+----------------------------------------------------------+
 | 2.4.2: Kontrolle der Datenqualität während und nach   | * Überprüfen der Datenqualität im Hinblick auf definierte|
-| der Datenerhebung (Analyse der Daten hinsichtlich der |   Merkmale (bspw. Korrektheit, Vollständigkeit,...)      |
+|                                                       |   Merkmale (bspw. Korrektheit, Vollständigkeit,...)      |
+| der Datenerhebung (Analyse der Daten hinsichtlich der +----------------------------------------------------------+
+|                                                       | * Anwendung identifizierter Qualitätsmetriken            |
 | Datenqualität -> keine inhaltliche Analyse zur        +----------------------------------------------------------+
-| Beantwortung der Forschungsfrage)                     | * Anwendung identifizierter Qualitätsmetriken            |
-|                                                       +----------------------------------------------------------+
 |                                                       | * Dokumentation kontextueller (Meta-)Daten im            |
-|                                                       |   Zusammenhang mit der Datenqualität                     |
+| Beantwortung der Forschungsfrage)                     |   Zusammenhang mit der Datenqualität                     |
 +-------------------------------------------------------+----------------------------------------------------------+
 | 2.4.3: Reaktive Experimentanpassungen bei der         | * Identifizieren möglicher Fehlerquellen                 |
+|                                                       +----------------------------------------------------------+
 | Datenerhebung definiert und etabliert                 | * Bereitstellen von Ersatz beim Ausfall und Fehlern      |
+|                                                       +----------------------------------------------------------+
 |                                                       | * Überprüfen der Messinstrumente vor und während der     |
 |                                                       |   Datenerhebung                                          |
+|                                                       +----------------------------------------------------------+
 |                                                       | * Maßnahmen bei detektierten Ausfällen und Fehlern       |
 |                                                       |   inline ergreifen                                       |
 +-------------------------------------------------------+----------------------------------------------------------+
