@@ -9,7 +9,7 @@ Feldexperiment (Daten Erzeugen)
 Was ist Daten Erzeugung?
 *************************
 **Zwei Hauptkomponenten im Prozess der Datenerzeugung**
-	* **Verfahren**, die Art und Weise der Datenerzeugung (Experimente, Instrumente, 		Datenbanken, ...)
+	* **Verfahren**, die Art und Weise der Datenerzeugung (Experimente, Instrumente, Datenbanken, ...)
  	 * Daten generieren
  	 * Daten nachnutzen / sammeln
 	* **Methodik**, die Prozesse, Praktiken und Prozeduren der wissenschaftlichen Forschung
