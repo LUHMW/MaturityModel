@@ -49,15 +49,15 @@ Reifestufen
 |        |                   +----------------------------------------------------------------------------------------------+
 |        |                   | Forschende wissen, wie Daten zugänglich gemacht werden sollen und es                         |
 |        |                   |                                                                                              |
-|        |                   |  stehen notwendige Ressourcen zur Verfügung                                                  |
+|        |                   | stehen notwendige Ressourcen zur Verfügung                                                   |
 +--------+-------------------+----------------------------------------------------------------------------------------------+
 | Level 3| Definiert         | Der Datenzugriff wird auf Grundlage domänenspezifischer communityorientierter                |
 |        |                   |                                                                                              |
-|        |                   |  Standards und Regularien charakterisiert                                                    |
+|        |                   | Standards und Regularien charakterisiert                                                     |
 |        |                   +----------------------------------------------------------------------------------------------+
 |        |                   | Spezifische Anforderungen werden auf Basis domänenorientierter Richtlinien                   |
 |        |                   |                                                                                              |
-|        |                   |  entwickelt und festgelegt                                                                   |
+|        |                   | entwickelt und festgelegt                                                                    |
 |        |                   +----------------------------------------------------------------------------------------------+
 |        |                   | Der Datenzugang ist über die Projektlaufzeit gesichert                                       |
 +--------+-------------------+----------------------------------------------------------------------------------------------+
