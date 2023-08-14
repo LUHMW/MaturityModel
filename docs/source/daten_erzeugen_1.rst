@@ -127,6 +127,36 @@ Level 2
 ========
 Level 3
 ========
++-------------------------------------------------------+----------------------------------------------------------+
+| Ziele                                                 | Praktiken                                                |
++=======================================================+==========================================================+
+| 4.3.1.: Das Management der Archivierung wird          | * Identifizieren und einbeziehen von gemeinschaftsweiten |
+|                                                       |                                                          |
+|                                                       |   Regelungen und Standards (Best Practices)              |
+| nach communityorientierten und fachspezifischen       +----------------------------------------------------------+
+|                                                       | * Nutzen eines Repositoriums, das den Standards der      |
+|                                                       |                                                          |
+| Standards ausgerichtet                                |   fachspezifischen Community entspricht                  |
++-------------------------------------------------------+----------------------------------------------------------+
+| 4.3.2.: Das Speichern der Daten wird an einen         | * Zum Verständnis wichtige Metadaten werden              |
+|                                                       |                                                          |
+|                                                       |   gemeinsam mit den Daten abgespeichert                  |
+| fachspezifischen Kontext ausgerichtet                 +----------------------------------------------------------+
+|                                                       | * Anwendung identifizierter Qualitätsmetriken            |
+|                                                       +----------------------------------------------------------+
+|                                                       | * Dokumentation kontextueller (Meta-)Daten im            |
+|                                                       |   Zusammenhang mit der Datenqualität                     |
++-------------------------------------------------------+----------------------------------------------------------+
+| 2.4.3: Reaktive Experimentanpassungen bei der         | * Identifizieren möglicher Fehlerquellen                 |
+|                                                       +----------------------------------------------------------+
+| Datenerhebung definiert und etabliert                 | * Bereitstellen von Ersatz beim Ausfall und Fehlern      |
+|                                                       +----------------------------------------------------------+
+|                                                       | * Überprüfen der Messinstrumente vor und während der     |
+|                                                       |   Datenerhebung                                          |
+|                                                       +----------------------------------------------------------+
+|                                                       | * Maßnahmen bei detektierten Ausfällen und Fehlern       |
+|                                                       |   inline ergreifen                                       |
++-------------------------------------------------------+----------------------------------------------------------+
 
 .. list-table::
   :widths: 5 10
