@@ -101,28 +101,28 @@ Level 2
   :widths: 5 10
   :header-rows: 1
 
-  * - Ziele
-    - Praktiken
-  * - |  2.2.1: Messungen repräsentieren die zugrunde gelegten 
-      |  theoretischen Konstrukte hinreichend für das Projekt 
-      |  (Planung und Durchführung der Datenerhebung -
-      |  Grundlagen)
-    - * |  Bestimmung der zu erhebenden Beobachtungseinheiten und 
-        |  Eigenschaften - Zielgrößendefinition (Messdaten mit 
-        |  direkten Bezug zur Ziel-Messgröße)
+	* - Ziele
+		- Praktiken
+	* - |  2.2.1: Messungen repräsentieren die zugrunde gelegten
+			|  theoretischen Konstrukte hinreichend für das Projekt 
+			|  (Planung und Durchführung der Datenerhebung -
+			|  Grundlagen)
+		- * |  Bestimmung der zu erhebenden Beobachtungseinheiten und
+				|  Eigenschaften - Zielgrößendefinition (Messdaten mit
+				|  direkten Bezug zur Ziel-Messgröße)
 			* |  Bestimmung des zu verwendenden Messinstruments 
-      * |  Definition der adäquaten Operationalisierung im Feld
-      * |  Definition möglicher reaktiver Einflüsse des Feldes
-      * |  Entwicklung eines Experimentplans auf projektdefinierte 
-        |  Weise (experimenteinzigartig)
-  * - |  2.2.2: Felddokumentation des Experiments (auf 
-      |  projektorientierte, nicht standardisierte Weise)
-    - * |  Bestimmung zu dokumentierender Feldgegebenheiten 
-        |  (allgemein und feldspezifisch) und zugehöriger 
-        |  Eigenschaften für die Felddokumentation
-      * |  Entwicklung und Anwendung einer Dokumentationsstruktur 
-        |  ohne Standards
-      * |  Bestimmung der Dokumentationsart
+			* |  Definition der adäquaten Operationalisierung im Feld
+			* |  Definition möglicher reaktiver Einflüsse des Feldes
+			* |  Entwicklung eines Experimentplans auf projektdefinierte
+				|  Weise (experimenteinzigartig)
+	* - |  2.2.2: Felddokumentation des Experiments (auf
+			|  projektorientierte, nicht standardisierte Weise)
+		- * |  Bestimmung zu dokumentierender Feldgegebenheiten
+				|  (allgemein und feldspezifisch) und zugehöriger
+				|  Eigenschaften für die Felddokumentation
+			* |  Entwicklung und Anwendung einer Dokumentationsstruktur
+				|  ohne Standards
+			* |  Bestimmung der Dokumentationsart
 
 
 ========
@@ -163,29 +163,23 @@ Level 4
 =========
 
 .. list-table::
-  :widths: 10 10
-  :header-rows: 1
+   :widths: 10 10
+   :header-rows: 1
 
-	* - Ziele
-    - Praktiken
-	* - |  2.4.1: Es werden quantitative Qualitätsziele für die 
-      |  Datenerhebung und Datenqualität definiert und etabliert
-    - * |  Bestimmung zu überprüfender Qualitätsaspekte bei der Datenerhebung
-      * |  Identifizieren und einbeziehen relevanter Qualitätsmetriken
-  * - |  2.4.2: Kontrolle der Datenqualität während und nach der
-      |  Datenerhebung (Analyse der Daten hinsichtlich der Datenqualität 
-      |  -> keine inhaltliche Analyse zur Beantwortung der Forschungsfrage)
-    - * |  Überprüfen der Datenqualität im Hinblick auf definierte
-				|  Merkmale (bspw. Korrektheit, Vollständigkeit,...)
-      * |  Anwendung identifizierter Qualitätsmetriken
-      * |  Dokumentation kontextueller (Meta-)Daten im 
-				|  Zusammenhang mit der Datenqualität
-  * - |  2.4.3: Reaktive Experimentanpassungen bei der 
-      |  Datenerhebung definiert und etabliert
-    - * |  Identifizieren möglicher Fehlerquellen
-      * |  Bereitstellen von Ersatz beim Ausfall und Fehlern
-      * |  Überprüfen der Messinstrumente vor und während der Datenerhebung 
-      * |  Maßnahmen bei detektierten Ausfällen und Fehlern inline ergreifen
+   * - Ziele
+     - Praktiken
+   * - 2.4.1: Es werden quantitative Qualitätsziele für die Datenerhebung und Datenqualität definiert und etabliert
+     - * Bestimmung zu überprüfender Qualitätsaspekte bei der Datenerhebung
+       * Identifizieren und einbeziehen relevanter Qualitätsmetriken
+   * - 2.4.2: Kontrolle der Datenqualität während und nach der Datenerhebung (Analyse der Daten hinsichtlich der Datenqualität -> keine inhaltliche Analyse zur Beantwortung der Forschungsfrage)
+     - * Überprüfen der Datenqualität im Hinblick auf definierte Merkmale (bspw. Korrektheit, Vollständigkeit,...)
+       * Anwendung identifizierter Qualitätsmetriken
+       * Dokumentation kontextueller (Meta-)Daten im Zusammenhang mit der Datenqualität
+   * - 2.4.3: Reaktive Experimentanpassungen bei der Datenerhebung definiert und etabliert
+     - * Identifizieren möglicher Fehlerquellen
+       * Bereitstellen von Ersatz beim Ausfall und Fehlern
+       * Überprüfen der Messinstrumente vor und während der Datenerhebung
+       * Maßnahmen bei detektierten Ausfällen und Fehlern inline ergreifen
 
 
 =========
