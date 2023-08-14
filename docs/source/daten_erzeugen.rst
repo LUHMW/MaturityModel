@@ -166,9 +166,9 @@ Level 4
   :widths: 10 10
   :header-rows: 1
 
-   * - Ziele
+	* - Ziele
     - Praktiken
-  * - |  2.4.1: Es werden quantitative Qualitätsziele für die 
+	* - |  2.4.1: Es werden quantitative Qualitätsziele für die 
       |  Datenerhebung und Datenqualität definiert und etabliert
     - * |  Bestimmung zu überprüfender Qualitätsaspekte bei der Datenerhebung
       * |  Identifizieren und einbeziehen relevanter Qualitätsmetriken
@@ -176,10 +176,10 @@ Level 4
       |  Datenerhebung (Analyse der Daten hinsichtlich der Datenqualität 
       |  -> keine inhaltliche Analyse zur Beantwortung der Forschungsfrage)
     - * |  Überprüfen der Datenqualität im Hinblick auf definierte
-	|  Merkmale (bspw. Korrektheit, Vollständigkeit,...)
+				|  Merkmale (bspw. Korrektheit, Vollständigkeit,...)
       * |  Anwendung identifizierter Qualitätsmetriken
       * |  Dokumentation kontextueller (Meta-)Daten im 
-	|  Zusammenhang mit der Datenqualität
+				|  Zusammenhang mit der Datenqualität
   * - |  2.4.3: Reaktive Experimentanpassungen bei der 
       |  Datenerhebung definiert und etabliert
     - * |  Identifizieren möglicher Fehlerquellen
