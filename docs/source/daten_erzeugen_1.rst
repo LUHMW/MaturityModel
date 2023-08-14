@@ -99,28 +99,28 @@ Level 2
   :widths: 5 10
   :header-rows: 1
 
-	* - Ziele
-		- Praktiken
-	* - |  2.2.1: Messungen repräsentieren die zugrunde gelegten
-			|  theoretischen Konstrukte hinreichend für das Projekt 
-			|  (Planung und Durchführung der Datenerhebung -
-			|  Grundlagen)
-		- * |  Bestimmung der zu erhebenden Beobachtungseinheiten und
-				|  Eigenschaften - Zielgrößendefinition (Messdaten mit
-				|  direkten Bezug zur Ziel-Messgröße)
-			* |  Bestimmung des zu verwendenden Messinstruments 
-			* |  Definition der adäquaten Operationalisierung im Feld
-			* |  Definition möglicher reaktiver Einflüsse des Feldes
-			* |  Entwicklung eines Experimentplans auf projektdefinierte
-				|  Weise (experimenteinzigartig)
-	* - |  2.2.2: Felddokumentation des Experiments (auf
-			|  projektorientierte, nicht standardisierte Weise)
-		- * |  Bestimmung zu dokumentierender Feldgegebenheiten
-				|  (allgemein und feldspezifisch) und zugehöriger
-				|  Eigenschaften für die Felddokumentation
-			* |  Entwicklung und Anwendung einer Dokumentationsstruktur
-				|  ohne Standards
-			* |  Bestimmung der Dokumentationsart
+  * - Ziele
+    - Praktiken
+  * - |  2.2.1: Messungen repräsentieren die zugrunde gelegten
+      |  theoretischen Konstrukte hinreichend für das Projekt 
+      |  (Planung und Durchführung der Datenerhebung -
+      |  Grundlagen)
+    - * |  Bestimmung der zu erhebenden Beobachtungseinheiten und
+        |  Eigenschaften - Zielgrößendefinition (Messdaten mit
+        |  direkten Bezug zur Ziel-Messgröße)
+      * |  Bestimmung des zu verwendenden Messinstruments 
+      * |  Definition der adäquaten Operationalisierung im Feld
+      * |  Definition möglicher reaktiver Einflüsse des Feldes
+      * |  Entwicklung eines Experimentplans auf projektdefinierte
+        |  Weise (experimenteinzigartig)
+  * - |  2.2.2: Felddokumentation des Experiments (auf
+      |  projektorientierte, nicht standardisierte Weise)
+    - * |  Bestimmung zu dokumentierender Feldgegebenheiten
+        |  (allgemein und feldspezifisch) und zugehöriger
+        |  Eigenschaften für die Felddokumentation
+      * |  Entwicklung und Anwendung einer Dokumentationsstruktur
+        |  ohne Standards
+      * |  Bestimmung der Dokumentationsart
 
 
 
