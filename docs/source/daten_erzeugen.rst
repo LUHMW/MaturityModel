@@ -26,7 +26,7 @@ Feldexperimente (GOLO)
 *************************
 * Durchführung einer Untersuchung in einem natürlichen Umfeld zur Erhebung empirischer Daten
 * Aufnahme von Daten in einem Feld
-  * Erhebung unterschiedlichster Datentypen 
+	-> Erhebung unterschiedlichster Datentypen 
 * Sammlung von Felddaten aus dem tatsächlichen oder experimentellen Betrieb eines cyberphysikalischen Systems
 * Ein Feldexperiment setzt die Designvariablen unter größtmögliche Natürlichkeit
 
