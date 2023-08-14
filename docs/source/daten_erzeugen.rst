@@ -170,7 +170,7 @@ Level 4
 |                                                       | Qualitätsmetriken                                        |
 +-------------------------------------------------------+----------------------------------------------------------+
 | 2.4.2: Kontrolle der Datenqualität während und nach   | * Überprüfen der Datenqualität im Hinblick auf definierte|
-| der Datenerhebung (Analyse der Daten hinsichtlich der | Merkmale (bspw. Korrektheit, Vollständigkeit,...)        |
+| der Datenerhebung (Analyse der Daten hinsichtlich der |   Merkmale (bspw. Korrektheit, Vollständigkeit,...)        |
 | Datenqualität -> keine inhaltliche Analyse zur        | * Anwendung identifizierter Qualitätsmetriken            |
 | Beantwortung der Forschungsfrage)                     | * Dokumentation kontextueller (Meta-)Daten im            |
 |                                                       | Zusammenhang mit der Datenqualität                       |
