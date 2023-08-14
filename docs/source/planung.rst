@@ -41,43 +41,43 @@ Reifestufen
 +=======================================================+==========================================================+=========================================================+
 | Level 1                                               | Einstieg                                                 | Die Planung des Forschungsdatenmanagement findet        |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          |   ohne definierte Vorlagen statt                        |
+|                                                       |                                                          | ohne definierte Vorlagen statt                          |
 |                                                       |                                                          +---------------------------------------------------------+
 |                                                       |                                                          | Die Planung wird intuitiv und ad hoc ausgeführt         |
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
 | Level 2                                               | Geführt                                                  | Es werden auf Projektebene die Inhalte eines DMPs       |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          |   definiert                                             |
+|                                                       |                                                          | definiert                                               |
 |                                                       |                                                          +---------------------------------------------------------+
 |                                                       |                                                          | Die Pläne werden mit einer projekteigenen Vorlage       |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          |   erstellt                                              |
+|                                                       |                                                          | erstellt                                                |
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
 | Level 3                                               | Definiert                                                | Die Datenmanagementplanung orientiert sich an           |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          |   Standards aus der fachspezifischen Community          |
+|                                                       |                                                          | Standards aus der fachspezifischen Community            |
 |                                                       |                                                          +---------------------------------------------------------+
 |                                                       |                                                          | Es werden Vorlagen und Services aus der Community       |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          |   bei der Datenmanagementplanung verwendet              |
+|                                                       |                                                          | bei der Datenmanagementplanung verwendet                |
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
 | Level 4                                               | Quantitativ Geführt                                      | Es werden (quantitative) Qualitätsziele für die         |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          |   Datenmanagementplanung etabliert                      |
+|                                                       |                                                          | Datenmanagementplanung etabliert                        |
 |                                                       |                                                          +---------------------------------------------------------+
 |                                                       |                                                          | Die Datenmanagementpläne werden auf Vollständigkeit,    |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          |   Aktualität, und Relevanz gesichert                    |
+|                                                       |                                                          | Aktualität, und Relevanz gesichert                      |
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
 | Level 5                                               | Optimierend                                              | Die Datenmanagementplanung wird proaktiv optimiert      |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          |   und fortlaufend verbessert (inhaltlich,               |
+|                                                       |                                                          | und fortlaufend verbessert (inhaltlich,                 |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          |   organisatorisch)                                      |
+|                                                       |                                                          | organisatorisch)                                        |
 |                                                       |                                                          +---------------------------------------------------------+
 |                                                       |                                                          | Es werden Best Practices und Verbesserungen mit         |
 |                                                       |                                                          |                                                         |
-|                                                       |                                                          |   der fachspezifischen Community geteilt                |
+|                                                       |                                                          | der fachspezifischen Community geteilt                  |
 +-------------------------------------------------------+----------------------------------------------------------+---------------------------------------------------------+
 
 
