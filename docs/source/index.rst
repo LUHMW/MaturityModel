@@ -1,4 +1,4 @@
-Ein Reifegradmodell im Forschungsdatenmanagement
+Reifegradmodelle für das Forschungsdatenmanagement in Forschungsprojekten
 ==================================================
 
 Auf dieser Website finden Sie Informationen über Reifegradmodelle und ihre Anwendung im Forschungsdatenmanagement (**FDM**).
