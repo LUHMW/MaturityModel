@@ -103,8 +103,7 @@ Reifestufen
 =========
 Level 1
 =========
-* Auf der Reifestufe 1 gibt es keine definierten Ziele, da das Zugänglichmachen von
-Daten intuitiv abläuft
+* Auf der Reifestufe 1 gibt es keine definierten Ziele, da das Zugänglichmachen von Daten intuitiv abläuft
 * Daten werden reaktiv auf Nachfrage zugänglich gemacht
 * Keine definierte Plattform, um Daten zugänglich zu machen
 * Die Ausführung ist dabei abhängig von der Motivation der/des Forschenden
