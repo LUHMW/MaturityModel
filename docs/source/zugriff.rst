@@ -30,12 +30,9 @@ Schließlich fördert die Zugänglichkeit und **Nachnutzung** von bereitgestellt
 
 
 
-* |  Wiederverwendung von Daten kann Duplikationen vermeiden
-  * |  Ressourceneinsparung
-* | Steigerung der Zitierungen
-  * |  Auch Daten können zitiert werden
-* |  Wissenschaftliche Integrität wird gestärkt 
-  * |  Steigende Transparenz und Nachvollziehbarkeit von Forschungsergebnissen
+* Wiederverwendung von Daten kann Duplikationen vermeiden
+* Steigerung der Zitierungen
+* Wissenschaftliche Integrität wird gestärkt 
 * Nachnutzung zugänglich gemachter Daten
 *******************************
 Aktivitäten Daten zugänglich zu machen
@@ -57,9 +54,8 @@ Um die Daten angemessen zu präsentieren, ist es wichtig, sie in einen **Kontext
 * Urheberrechten und Lizenzen bestimmen
 * Zugangsplattform bestimmen
 * Verwendung von Metadaten
-* |  Daten in einen Kontext setzen
-  * |  Zugrundeliegende Prozesse beschreiben
-  * |  Verlinkung mit weiteren Materialien
+* Daten in einen Kontext setzen
+
 ************
 Reifestufen
 ************
