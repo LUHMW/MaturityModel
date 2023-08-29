@@ -14,7 +14,7 @@ Dieser Zugriff kann z.B. in Form von Datenpublikationen etabliert werden, welche
 Die Publikation von Daten wird immer wichtiger, da diese vermehrt von Seiten der Förderer verlangt wird.
 
 
-In der heutigen Forschungslandschaft spielt die Möglichkeit, anderen Forschenden den Zugriff auf Daten zu ermöglichen, eine zentrale Rolle. Daten sind längst nicht mehr ausschließlich für die eigene Forschung von Bedeutung, sondern haben eine breitere Relevanz erlangt. Die Konzeption von Datenpublikationen als eigenständige, zitierbare und dauerhafte Veröffentlichungen von digitalen Forschungsdaten gewinnt dabei an Bedeutung. Insbesondere Förderinstitutionen legen verstärkten Fokus auf die Publikation von Daten, um deren Nachnutzung zu fördern und die Transparenz wissenschaftlicher Erkenntnisse zu steigern. Dieser Trend unterstreicht die wachsende Bedeutung der offenen Verfügbarkeit von Forschungsdaten für die gesamte wissenschaftliche Gemeinschaft.
+In der heutigen Forschungslandschaft spielt die Möglichkeit, anderen Forschenden den Zugriff auf Daten zu ermöglichen, eine zentrale Rolle. Daten sind längst nicht mehr ausschließlich für die eigene Forschung von Bedeutung, sondern haben eine breitere Relevanz erlangt. Die Konzeption von **Datenpublikationen** als eigenständige, zitierbare und dauerhafte Veröffentlichungen von digitalen Forschungsdaten gewinnt dabei an Bedeutung. Insbesondere Förderinstitutionen legen verstärkten Fokus auf die Publikation von Daten, um deren **Nachnutzung zu fördern** und die Transparenz wissenschaftlicher Erkenntnisse zu steigern. Dieser Trend unterstreicht die wachsende Bedeutung der offenen Verfügbarkeit von Forschungsdaten für die gesamte wissenschaftliche Gemeinschaft.
 
 
 * Anderen Forschenden den Zugriff auf Daten ermöglichen, damit diese nachgenutzt werden können
@@ -26,13 +26,13 @@ Zweck zugänglich gemachter Daten
 **********************************
 (Anderen Forschenden den Zugriff auf erhobene Daten zu gewähren kann die Duplikation der Datenerhebung vermeiden, wodurch die Ressourcen innerhalb der Forschungscommunity eiffizienter allokiert werden können.)
 
-Die Bereitstellung von Daten zur Wiederverwendung eröffnet eine Vielzahl von Vorteilen. Zum einen verhindert sie potenzielle Duplikationen, da bereits vorhandene Daten genutzt werden können. Dies trägt nicht nur zur Effizienz bei, sondern spart auch Ressourcen, die für wiederholte Datenerhebungen eingesetzt werden könnten.
+Die Bereitstellung von Daten zur Wiederverwendung eröffnet eine Vielzahl von Vorteilen. Zum einen verhindert sie potenzielle **Duplikationen**, da bereits vorhandene Daten genutzt werden können. Dies trägt nicht nur zur Effizienz bei, sondern spart auch Ressourcen, die für wiederholte Datenerhebungen eingesetzt werden könnten.
 
-Ein weiterer positiver Effekt ist die Steigerung der Zitierungen. Daten können ebenso wie wissenschaftliche Artikel zitiert werden, was die Anerkennung und Sichtbarkeit von Forschungsdaten erhöht.
+Ein weiterer positiver Effekt ist die **Steigerung der Zitierungen**. Daten können ebenso wie wissenschaftliche Artikel zitiert werden, was die Anerkennung und Sichtbarkeit von Forschungsdaten erhöht.
 
-Durch die Etablierung von Datenpublikationen wird auch die wissenschaftliche Integrität gestärkt. Die Veröffentlichung von Daten führt zu größerer Transparenz und ermöglicht eine bessere Nachvollziehbarkeit von Forschungsergebnissen. Dies trägt zur Vertrauensbildung innerhalb der wissenschaftlichen Gemeinschaft bei.
+Durch die Etablierung von Datenpublikationen wird auch die **wissenschaftliche Integrität** gestärkt. Die Veröffentlichung von Daten führt zu größerer Transparenz und ermöglicht eine bessere Nachvollziehbarkeit von Forschungsergebnissen. Dies trägt zur Vertrauensbildung innerhalb der wissenschaftlichen Gemeinschaft bei.
 
-Schließlich fördert die Zugänglichkeit und Nachnutzung von bereitgestellten Daten die Weiterentwicklung der Forschung. Andere Forschende können die Daten verwenden, um neue Erkenntnisse zu generieren, innovative Ansätze zu verfolgen und somit den wissenschaftlichen Fortschritt insgesamt zu beschleunigen.
+Schließlich fördert die Zugänglichkeit und **Nachnutzung** von bereitgestellten Daten die Weiterentwicklung der Forschung. Andere Forschende können die Daten verwenden, um neue Erkenntnisse zu generieren, innovative Ansätze zu verfolgen und somit den wissenschaftlichen Fortschritt insgesamt zu beschleunigen.
 
 
 
@@ -47,15 +47,15 @@ Schließlich fördert die Zugänglichkeit und Nachnutzung von bereitgestellten D
 Aktivitäten Daten zugänglich zu machen
 *******************************
 
-Die Veröffentlichung von Forschungsdaten erfordert eine sorgfältige Planung und Entscheidungsfindung in mehreren Aspekten. Zunächst einmal ist die Auswahl der Daten, die veröffentlicht werden sollen, von entscheidender Bedeutung. Hierbei gilt es, relevante und repräsentative Informationen auszuwählen, um einen Mehrwert für die Forschungsgemeinschaft zu bieten.
+Die Veröffentlichung von Forschungsdaten erfordert eine sorgfältige Planung und Entscheidungsfindung in mehreren Aspekten. Zunächst einmal ist die **Auswahl der Daten**, die veröffentlicht werden sollen, von entscheidender Bedeutung. Hierbei gilt es, relevante und repräsentative Informationen auszuwählen, um einen Mehrwert für die Forschungsgemeinschaft zu bieten.
 
-Ein weiterer wichtiger Schritt ist die Festlegung von Urheberrechten und Lizenzen für die veröffentlichten Daten. Diese Schritte sind essenziell, um die Rechte der Datenersteller zu schützen und gleichzeitig eine angemessene Nutzung durch Dritte zu ermöglichen.
+Ein weiterer wichtiger Schritt ist die **Festlegung von Urheberrechten und Lizenzen** für die veröffentlichten Daten. Diese Schritte sind essenziell, um die Rechte der Datenersteller zu schützen und gleichzeitig eine angemessene Nutzung durch Dritte zu ermöglichen.
 
-Die Wahl der Zugangsplattform ist ebenfalls von Bedeutung. Je nach Fachgebiet und Zielgruppe kann die Auswahl der Plattform variieren, wobei offene und leicht zugängliche Plattformen oft bevorzugt werden, um die Reichweite der Daten zu maximieren.
+Die Wahl der **Zugangsplattform** ist ebenfalls von Bedeutung. Je nach Fachgebiet und Zielgruppe kann die Auswahl der Plattform variieren, wobei offene und leicht zugängliche Plattformen oft bevorzugt werden, um die Reichweite der Daten zu maximieren.
 
-Die Verwendung von Metadaten ist ein weiterer kritischer Aspekt. Metadaten bieten Kontext und zusätzliche Informationen zu den veröffentlichten Daten. Sie helfen dabei, die Daten in den richtigen Zusammenhang zu setzen und ermöglichen anderen Forschenden eine bessere Interpretation und Nutzung der Informationen.
+Die Verwendung von **Metadaten** ist ein weiterer kritischer Aspekt. Metadaten bieten Kontext und zusätzliche Informationen zu den veröffentlichten Daten. Sie helfen dabei, die Daten in den richtigen Zusammenhang zu setzen und ermöglichen anderen Forschenden eine bessere Interpretation und Nutzung der Informationen.
 
-Um die Daten angemessen zu präsentieren, ist es wichtig, sie in einen Kontext zu setzen. Das bedeutet, die zugrundeliegenden Prozesse und Methoden zu beschreiben, die zur Erzeugung der Daten geführt haben. Zusätzlich können Verlinkungen zu weiteren Materialien und Ressourcen den Forschenden helfen, ein umfassenderes Verständnis der Daten zu entwickeln und möglicherweise neue Forschungsrichtungen zu erkennen.
+Um die Daten angemessen zu präsentieren, ist es wichtig, sie in einen **Kontext** zu setzen. Das bedeutet, die zugrundeliegenden Prozesse und Methoden zu beschreiben, die zur Erzeugung der Daten geführt haben. Zusätzlich können Verlinkungen zu weiteren Materialien und Ressourcen den Forschenden helfen, ein umfassenderes Verständnis der Daten zu entwickeln und möglicherweise neue Forschungsrichtungen zu erkennen.
 
 
 
