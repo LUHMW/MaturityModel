@@ -7,6 +7,9 @@ Archivierung
 *************************
 Was ist Archivierung?
 *************************
+
+Archivierung bezeichnet die **langfristige Speicherung** von gesammelten Daten und den dazugehörigen Metadaten. Durch diese Praxis werden die Daten vor ungewolltem **Verlust oder Schäden geschützt**. Die Archivierung wird aufgeteilt in drei Ebenen: Gewährleistung der **Integrität**, der **Authentizität** und der **Interpretierbarkeit** der Daten. Dies sichert nicht nur die Erhaltung der Daten selbst, sondern auch ihre korrekte Bedeutung und Einordnung über die Zeit hinweg.
+
 * Langzeitspeicherung erhobener Daten und Metadaten
 * Daten werden vor ungewolltem Verlust und Beschädigung geschützt
 * Drei Ebenen der Archivierung: Erhalt von Integrität, Authentizität und Interpretierbarkeit der Daten
@@ -14,6 +17,9 @@ Was ist Archivierung?
 *************************
 Zweck der Archivierung
 *************************
+
+Die Archivierung dient verschiedenen Zwecken, um die Sicherheit und Bedeutung von Forschungsdaten langfristig zu gewährleisten. Unsachgemäße Speicherung birgt das **Risiko von Beschädigung** oder Verlust von Daten. Ein gut durchgeführter Archivierungsprozess ermöglicht die Interoperabilität, Langzeitarchivierung und effiziente Datenanalyse, während unzureichende Archivierung dazu führen kann, dass Daten aufgrund **veralteter Speichermedien** unbrauchbar werden. Die Bewahrung der Authentizität und Integrität von Daten ist von zentraler Bedeutung, wofür vertrauenswürdige **Repositorien** eine entscheidende Rolle spielen. Durch die Einhaltung solcher Archivierungsprinzipien können Forschende sicherstellen, dass ihre Daten auch langfristig relevant und verlässlich bleiben.
+
 * Daten können bei unsachgemäßer Speicherung beschädigt werden oder verloren gehen 
 * Interoperabilität, Langzeitarchivierung und effiziente Datenanalyse wird durch gut durchgeführte Archivierungsprozesse gewährleistet
 * Speichermedien können veralten und Daten unbrauchbar werden bei unzureichend geführter Archivierung
@@ -22,6 +28,15 @@ Zweck der Archivierung
 *******************************
 Aktivitäten der Archivierung
 *******************************
+
+Die Archivierung von Daten beinhaltet eine Reihe von wichtigen Aktivitäten. Dazu gehört die Übertragung oder Transkription der Daten in die gewünschte Schriftform. Es ist empfehlenswert, normierte und offene **Dateiformate** zu nutzen und diese regelmäßig auf ihre Aktualität hin zu überprüfen.
+
+Je nach Fachgebiet sollte eine geeignete Plattform oder ein geeignetes **Repositorium** für die Archivierung der Daten gewählt werden. Dies stellt sicher, dass die Daten in einem Kontext abgelegt werden, der den Anforderungen der jeweiligen Wissenschaftsdisziplin entspricht.
+
+**Zusätzliches Material**, wie beispielsweise genutzte Fragebögen oder Variablenbeschriftungen, sollte den archivierten Daten beigefügt werden. Dies ermöglicht es anderen Forschenden, die Daten besser zu verstehen und zu nutzen.
+
+Ein weiterer essentieller Schritt ist die regelmäßige Durchführung von **Backups**. Dadurch wird sichergestellt, dass die Daten im Falle eines unerwarteten Verlusts oder technischer Probleme wiederhergestellt werden können. Diese Aktivitäten tragen dazu bei, dass die Archivierung der Daten effektiv und nachhaltig erfolgt.
+
 * Daten in die gewünschte Schriftform übertragen bzw. transkribieren
 * Bestenfalls Nutzung von normierten und offenen Dateiformaten und regelmäßige Prüfung auf Aktualität der genutzten Formate
 * Die Daten je nach Wissenschaftsdisziplin einem geeigneten Repositorium archivieren
