@@ -229,7 +229,7 @@ Level 5
 Checkliste
 ************
 
-Hier finden sie eine `Checkliste <..docs/assets/02_Checkliste_Zugriff>`_ zum selbeständigen überprüfen der Ziele und Praktiken der Reifestufen im eigenen Projekt.
+Hier finden sie eine `Checkliste <docs/assets/02_Checkliste_Zugriff>`_ zum selbeständigen überprüfen der Ziele und Praktiken der Reifestufen im eigenen Projekt.
 
 ***************************
 Weiterführende Materialien
