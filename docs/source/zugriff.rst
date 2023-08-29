@@ -9,11 +9,6 @@ Zugriff
 Was ist Zugriff?
 *************************
 
-In diesem Abschnitt des FDM-Lebenszyklus geht es darum, anderen Forschenden den Zugriff auf gesammelte Daten zu ermöglichen, da viele Daten längst nicht mehr nur für die eigene Forschung relevant sind. 
-Dieser Zugriff kann z.B. in Form von Datenpublikationen etabliert werden, welche eigenständige, zitierbare und dauerhafte Veröffentlichungen von digitalen Forschungsdaten sind. 
-Die Publikation von Daten wird immer wichtiger, da diese vermehrt von Seiten der Förderer verlangt wird.
-
-
 In der heutigen Forschungslandschaft spielt die Möglichkeit, anderen Forschenden den **Zugriff auf Daten** zu ermöglichen, eine zentrale Rolle. Daten sind längst nicht mehr ausschließlich für die eigene Forschung von Bedeutung, sondern haben eine breitere Relevanz erlangt. Die Konzeption von **Datenpublikationen** als eigenständige, zitierbare und dauerhafte Veröffentlichungen von digitalen Forschungsdaten gewinnt dabei an Bedeutung. Insbesondere Förderinstitutionen legen verstärkten Fokus auf die Publikation von Daten, um deren **Nachnutzung zu fördern** und die Transparenz wissenschaftlicher Erkenntnisse zu steigern. Dieser Trend unterstreicht die wachsende Bedeutung der offenen Verfügbarkeit von Forschungsdaten für die gesamte wissenschaftliche Gemeinschaft.
 
 
@@ -24,7 +19,6 @@ In der heutigen Forschungslandschaft spielt die Möglichkeit, anderen Forschende
 **********************************
 Zweck zugänglich gemachter Daten
 **********************************
-(Anderen Forschenden den Zugriff auf erhobene Daten zu gewähren kann die Duplikation der Datenerhebung vermeiden, wodurch die Ressourcen innerhalb der Forschungscommunity eiffizienter allokiert werden können.)
 
 Die Bereitstellung von Daten zur Wiederverwendung eröffnet eine Vielzahl von Vorteilen. Zum einen verhindert sie potenzielle **Duplikationen**, da bereits vorhandene Daten genutzt werden können. Dies trägt nicht nur zur Effizienz bei, sondern spart auch Ressourcen, die für wiederholte Datenerhebungen eingesetzt werden könnten.
 
