@@ -17,15 +17,10 @@ Insgesamt ermöglicht ein "erfolgreiches" Vorgehen bei der Datenerfassung von Fo
 
 **Zwei Hauptkomponenten im Prozess der Datenerzeugung**
 	* **Verfahren**, die Art und Weise der Datenerzeugung (Experimente, Instrumente, Datenbanken, ...)
- 	 * Daten generieren
- 	 * Daten nachnutzen / sammeln
 	* **Methodik**, die Prozesse, Praktiken und Prozeduren der wissenschaftlichen Forschung
-  	* Umfragen, Fallstudien, Simulationen, Analyse bestehender Daten, ...
 **Zwei Hauptkomponenten für das FDM während der Datenerzeugung**
 	* **Datenerfassung**, der Prozess der Datenerzeugung für die nachfolgende Analyse (generieren, sammeln) (F.4)
 	* **Datendokumentation**, die erstellte Beschreibung der Datenerzeugung (Randbedingungen, Parameter, Formate, ...)
-
-**-->** „Erfolgreiche“ Datenerfassung von Forschungsdaten zur weiteren Analyse und Nachnutzung der Daten
 
 
 *************************
@@ -36,7 +31,6 @@ Feldexperimente im Kontext von GOLO (Global Observing Land Office) bezeichnen di
 
 * Durchführung einer Untersuchung in einem natürlichen Umfeld zur Erhebung empirischer Daten
 * Aufnahme von Daten in einem Feld
-	-> Erhebung unterschiedlichster Datentypen 
 * Sammlung von Felddaten aus dem tatsächlichen oder experimentellen Betrieb eines cyberphysikalischen Systems
 * Ein Feldexperiment setzt die Designvariablen unter größtmögliche Natürlichkeit
 
@@ -258,6 +252,12 @@ Level 5
 | Verbesserungen werden umgesetzt                       | fachspezifischen Community                               |
 +-------------------------------------------------------+----------------------------------------------------------+
 
+
+************
+Checkliste
+************
+
+Hier finden Sie eine Checkliste zum individuellen überprüfen der Ziele und Praktiken der verschiedenen Reifestufen im eigenen Projekt:
 
 ***************************
 Weiterführende Materialien
