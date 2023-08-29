@@ -9,9 +9,9 @@ Planung
 Was ist Planung?
 *************************
 
-Planung im Kontext des Forschungsdatenmanagements (FDM) markiert den Startpunkt eines FDM-Prozesses. Dabei stehen die Forschungsdaten im Zentrum, die in einem Projekt verwendet, bearbeitet und/oder erzeugt werden. Die Planungsphase umfasst die strategische Organisation der Datensammlung, -dokumentation, -organisation und -aufbewahrung.
+Planung im Kontext des Forschungsdatenmanagements (FDM) markiert den **Startpunkt** eines FDM-Prozesses. Dabei stehen die **Forschungsdaten** im Zentrum, die in einem Projekt verwendet, bearbeitet und/oder erzeugt werden. Die Planungsphase umfasst die **strategische Organisation** der Datensammlung, -dokumentation, -organisation und -aufbewahrung.
 
-Ein zentrales Instrument in diesem Zusammenhang ist der Datenmanagementplan (DMP). Dieser Plan stellt sicher, dass alle Aspekte der Datenverwaltung abgedeckt sind, von der Datenerhebung bis zur Langzeitarchivierung. Förderinstitutionen legen zunehmend Wert auf einen detaillierten und durchdachten DMP als Teil des Antragsprozesses. Die Planungsphase legt somit den Grundstein für eine effektive und verantwortungsbewusste Handhabung von Forschungsdaten im gesamten Verlauf eines Projekts.
+Ein zentrales Instrument in diesem Zusammenhang ist der **Datenmanagementplan** (DMP). Dieser Plan stellt sicher, dass alle Aspekte der Datenverwaltung abgedeckt sind, von der Datenerhebung bis zur Langzeitarchivierung. Förderinstitutionen legen zunehmend Wert auf einen detaillierten und durchdachten DMP als Teil des Antragsprozesses. Die Planungsphase legt somit den Grundstein für eine effektive und verantwortungsbewusste Handhabung von Forschungsdaten im gesamten Verlauf eines Projekts.
 
 * Beginn eines FDM-Prozesses
 * Zentrales Element sind Forschungsdaten, die in einem Projekt benutzt, bearbeitet und/oder erzeugt werden
@@ -21,18 +21,38 @@ Ein zentrales Instrument in diesem Zusammenhang ist der Datenmanagementplan (DMP
 *************************
 Zweck der Planung
 *************************
+
+Die Planung im Forschungsdatenmanagement (FDM) erfüllt verschiedene zentrale Zwecke. Erstens zielt sie darauf ab, die **langfristige Zugänglichkeit und Nutzbarkeit** von Daten sicherzustellen. Durch eine strukturierte Planung werden Forschungsdaten so verwaltet, dass sie über den unmittelbaren Projektzeitraum hinaus erhalten bleiben und für künftige Nutzung zur Verfügung stehen.
+
+Zweitens erleichtert eine frühzeitige Planung die Einhaltung von Datenpflege-Richtlinien. Diese Integration unterstützt die **Qualität** und **Integrität** der Daten über den gesamten Forschungsprozess hinweg, da von Anfang an die notwendigen Maßnahmen berücksichtigt werden können.
+
+Drittens fördert eine solide Planung die **Transparenz** und **Offenheit** in der Forschung. Sie unterstützt die Verantwortung, öffentlich finanzierte Forschungsprodukte der breiten Öffentlichkeit zugänglich zu machen und trägt somit zur Vertrauensbildung und Rechenschaftspflicht in der Wissenschaft bei.
+
+Schließlich trägt die transparente und offene Bereitstellung von Forschungsdaten zum **Return on Investment** bei. Dies bedeutet, dass durch die Zugänglichkeit vorhandener Daten neue Forschungsmöglichkeiten geschaffen werden und gleichzeitig verhindert wird, dass unbeabsichtigte Redundanzen in der Forschung entstehen.
+
+Zusammenfassend dient die Planung im FDM dazu, den Wert der Forschungsdaten zu maximieren, die Effizienz in der Forschung zu steigern und die Integrität der wissenschaftlichen Praxis zu unterstützen.
+
 * Daten langfristig zugänglich und nutzbar machen
 * Frühzeitige Planung erhöht die Wahrscheinlichkeit, dass in weiterer Forschung Datenpflege-Richtlinien eingehalten werden 
 * Transparenz und Offenheit 
-  * Unterstützung der Verantwortung, öffentlich finanzierte Forschungsprodukte offen zugänglich zu machen
 * Return on Investment 
-  * Transparenz und Offenheit fördern neue Forschungen durch Nutzung vorhandener Daten und verhindern unbeabsichtigte Redundanz in der Forschung
+
 *******************************
 Aktivitäten der Planung
 *******************************
+
+Die Aktivitäten der Planung im Rahmen des Forschungsdatenmanagements (FDM) umfassen verschiedene wichtige Schritte. Die primären Funktionen der Planung bestehen darin, geeignete **Methoden** auszuwählen und einen angemessenen Förderrahmen für das Forschungsprojekt festzulegen. Ein zentraler Aspekt ist die Ausarbeitung eines **Datenmanagementplans** (DMP), der die Anforderungen des FDM berücksichtigt. Hierbei kann das nützliche Tool RDMO als unterstützendes Instrument dienen, um einen strukturierten Plan zu erstellen.
+
+Die Klärung ethischer und rechtlicher **Rahmenbedingungen** spielt eine bedeutende Rolle innerhalb der Planungsaktivitäten. Diese umfassen die Auseinandersetzung mit Fragen zur Datenverarbeitung, zum Datenschutz und zur Datennutzung, um sicherzustellen, dass alle relevanten Vorschriften und Bestimmungen beachtet werden.
+
+Ein weiterer essentieller Schritt ist die Zuweisung von **Verantwortlichkeiten** und die Festlegung spezifischer Rollen im Zusammenhang mit dem FDM. Diese klare Aufgabenverteilung gewährleistet, dass die Handhabung der Forschungsdaten auf verantwortungsbewusste Weise erfolgt und alle relevanten Aspekte berücksichtigt werden.
+
+Ebenfalls integral ist die Prüfung der Möglichkeit zur Nachnutzung bereits bestehender Daten. Dieser Schritt trägt dazu bei, vorhandene Ressourcen optimal zu nutzen, die Forschungseffizienz zu steigern und unbeabsichtigte Redundanzen zu vermeiden.
+
+Zusammengefasst beinhalten die Aktivitäten der Planung eine Bandbreite von Schritten, die sicherstellen sollen, dass Forschungsdaten gemäß bewährter Praktiken verwaltet werden. Gleichzeitig werden ethische und rechtliche Anforderungen erfüllt und eine klare Struktur für den Verlauf der Forschungsarbeit etabliert.
+
 * Primäre Funktionen sind Methodenauswahl und Festlegung eines adäquaten Förderrahmens
 * Datenmanagementplan unter Rücksichtnahme der Anforderungen ausarbeiten
-  * Hilfreiches Tool ist RDMO
 * Klärung der ethischen und rechtlichen Rahmenbedingungen
 * Verantwortlichkeiten und spezifische Rollen für FDM müssen geklärt werden 
 * Prüfung auf Möglichkeit zur Nachnutzung bestehender Daten
@@ -205,6 +225,10 @@ Level 5
 |                                                       |                                                          |
 |                                                       | Community über bestehende und neue Best Practices        |
 +-------------------------------------------------------+----------------------------------------------------------+
+
+*************
+Checkliste
+*************
 
 
 
