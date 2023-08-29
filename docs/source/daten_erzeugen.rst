@@ -8,6 +8,13 @@ Feldexperiment (Daten Erzeugen)
 *************************
 Was ist Daten Erzeugung?
 *************************
+
+Im Prozess der Datenerzeugung spielen **zwei Hauptkomponenten** eine zentrale Rolle. Zum einen sind dies die verschiedenen **Verfahren**, die zur Datenerzeugung angewandt werden, sei es durch Experimente, Instrumente oder Datenbanken. Diese Verfahren dienen dazu, Daten zu generieren oder zu sammeln, um sie später für weitere Zwecke nutzen zu können. Zum anderen umfasst die **Methodik** die unterschiedlichen Prozesse, Praktiken und Prozeduren, die in der wissenschaftlichen Forschung angewandt werden, wie beispielsweise Umfragen, Fallstudien, Simulationen oder die Analyse bereits bestehender Daten.
+
+Während der Datenerzeugung spielen im **Kontext des Forschungsdatenmanagements** (FDM) zwei Hauptkomponenten eine wichtige Rolle. Die **Datenerfassung** stellt den Prozess dar, durch den Daten aktiv erzeugt oder gesammelt werden, um sie als Grundlage für zukünftige Analysen und Nachnutzungen zu verwenden. Parallel dazu ist die **Datendokumentation** von entscheidender Bedeutung, da sie eine ausführliche Beschreibung der Datenerzeugung beinhaltet. Dies umfasst Informationen zu den Randbedingungen, verwendeten Parametern, Datenformaten und anderen relevanten Aspekten, die eine bessere Verständlichkeit und Nachvollziehbarkeit der erzeugten Daten ermöglichen.
+
+Insgesamt ermöglicht ein "erfolgreiches" Vorgehen bei der Datenerfassung von Forschungsdaten eine spätere Analyse und Nachnutzung der Daten auf effektive Weise. Dabei spielt die klare Dokumentation der Datenerzeugung eine entscheidende Rolle, um Transparenz und Verständnis für die Daten zu gewährleisten.
+
 **Zwei Hauptkomponenten im Prozess der Datenerzeugung**
 	* **Verfahren**, die Art und Weise der Datenerzeugung (Experimente, Instrumente, Datenbanken, ...)
  	 * Daten generieren
@@ -24,6 +31,9 @@ Was ist Daten Erzeugung?
 *************************
 Feldexperimente (GOLO)
 *************************
+
+Feldexperimente im Kontext von GOLO (Global Observing Land Office) bezeichnen die **praktische Durchführung** von Untersuchungen in natürlichen Umgebungen, um empirische Daten zu erfassen. Diese Experimente umfassen die Aufnahme einer breiten Palette von Daten direkt im Feld, was zur Erfassung verschiedenster Datentypen führt. Dabei werden **Felddaten** aus dem realen oder experimentellen Betrieb eines cyberphysischen Systems gesammelt. Die Besonderheit eines Feldexperiments liegt in der Einbeziehung von Designvariablen, wobei gleichzeitig höchstmögliche Natürlichkeit und Praxisnähe gewährleistet werden. Dieser Ansatz ermöglicht die Abbildung realer Bedingungen und die Gewinnung authentischer Erkenntnisse im Rahmen des GOLO-Projekts.
+
 * Durchführung einer Untersuchung in einem natürlichen Umfeld zur Erhebung empirischer Daten
 * Aufnahme von Daten in einem Feld
 	-> Erhebung unterschiedlichster Datentypen 
@@ -33,6 +43,15 @@ Feldexperimente (GOLO)
 *********************************
 Aktivitäten von Feldexperimenten
 *********************************
+
+Feldexperimente beinhalten eine Reihe von Aktivitäten, die sich auf Datenerfassung und Felddokumentation konzentrieren:
+
+**Datenerfassung**: Dies umfasst die Sammlung und Aufnahme von Beobachtungen spezifischer Eigenschaften in einem Feld. Die Vorbereitung des Feldexperiments ist ein erster Schritt, der die Auswahl eines geeigneten technischen Systems (Messinstruments) und Aufnahmeverfahrens einschließt. Dabei werden auch der Zeitraum und der Umfang des Feldexperiments festgelegt. Während der Durchführung des Feldexperiments erfolgt die eigentliche Datenerhebung durch die Aufnahme von Daten im Feld.
+
+**Felddokumentation**: Diese Aktivität bezieht sich auf die Dokumentation der Gegebenheiten im Feld während des festgelegten Zeitraums der Datenerhebung. Hierbei wird bestimmt, welche Feldgegebenheiten dokumentiert werden sollen, einschließlich Rahmenbedingungen und Unsicherheiten. Die Art der Dokumentation wird ebenfalls festgelegt, ob es sich um manuelle oder digitale Dokumentation handelt.
+
+Durch die klare Strukturierung dieser Aktivitäten werden Feldexperimente effizient durchgeführt und liefern verlässliche Daten und dokumentierte Informationen über die Umstände, unter denen die Daten erfasst wurden.
+
 **Datenerfassung**, Sammlung und Aufnahme von Beobachtungen definierter Eigenschaften in einem Feld
 	* Vorbereitung des Feldexperiments
   	* Bestimmung eines technischen Systems (Messinstruments) und Aufnahmeverfahren
