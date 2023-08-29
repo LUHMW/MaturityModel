@@ -225,6 +225,11 @@ Level 5
 | Verbesserungen werden umgesetzt.                      | fachspezifischen Community                               |
 +-------------------------------------------------------+----------------------------------------------------------+
 
+************
+Checkliste
+************
+
+Hier finden sie eine `Checkliste <../_static/02_Checkliste_Zugriff>`_ zum selbeständigen überprüfen der Ziele und Praktiken der Reifestufen im eigenen Projekt.
 
 ***************************
 Weiterführende Materialien
