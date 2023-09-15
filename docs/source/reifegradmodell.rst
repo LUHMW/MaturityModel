@@ -10,7 +10,7 @@ Allgemeine Reifegradcharakteristik
 ----------------
 Noch mehr Text
 
-.. image:: images/logo_nfdi4ing_sw_quer.svg
+.. image:: images/RG_Characteristik_de.svg
   :width: 800 
 
 
