@@ -9,7 +9,7 @@ diesem Abschnitt und einer Auflistung von Zielen und Praktiken für die entsprec
 
 
 
-Abschnitte des FDM-Zyklus
+Prozessbereiche des FDM im Forschungsprozess
 --------
 * :ref:`Planung`
 * :ref:`Erhebung`
