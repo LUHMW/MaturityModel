@@ -1,12 +1,12 @@
 Reifegradmodell
 ##################
 
-Abschnitt 1
+Reifegradmodelle für das Forschungsdatenmanagement
 --------------
 Text
 
 
-Abschnitt 2
+Allgemeine Reifegradcharakteristik
 ----------------
 Noch mehr Text
 
