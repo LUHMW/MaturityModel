@@ -12,7 +12,7 @@ diesem Abschnitt und einer Auflistung von Zielen und Praktiken für die entsprec
 Abschnitte des FDM-Zyklus
 --------
 * :ref:`Planung`
-* :ref:`Daten Erhebung`
+* :ref:`Erhebung`
 * :ref:`Analyse`
 * :ref:`Archivierung`
 * :ref:`Zugriff`
