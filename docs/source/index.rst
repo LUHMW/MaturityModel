@@ -6,6 +6,9 @@ Für jeden Abschnitt im Lebenszyklus der Daten finden Sie eine Seite mit allgeme
 diesem Abschnitt und einer Auflistung von Zielen und Praktiken für die entsprechen Reifestufen.
 
 
+Qualitätsbewertung für das Forschungsdatenmanagement in Forschungsprojekten
+--------
+
 
 
 
