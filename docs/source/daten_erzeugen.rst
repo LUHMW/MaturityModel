@@ -2,16 +2,16 @@
 
 
 #################################
-Feldexperiment (Daten Erzeugen)
+Daten Erhebung
 #################################
 
 *************************
-Was ist Daten Erzeugung?
+Was ist die Daten Erhebung?
 *************************
 
-Im Prozess der Datenerzeugung spielen **zwei Hauptkomponenten** eine zentrale Rolle. Zum einen sind dies die verschiedenen **Verfahren**, die zur Datenerzeugung angewandt werden, sei es durch Experimente, Instrumente oder Datenbanken. Diese Verfahren dienen dazu, Daten zu generieren oder zu sammeln, um sie später für weitere Zwecke nutzen zu können. Zum anderen umfasst die **Methodik** die unterschiedlichen Prozesse, Praktiken und Prozeduren, die in der wissenschaftlichen Forschung angewandt werden, wie beispielsweise Umfragen, Fallstudien, Simulationen oder die Analyse bereits bestehender Daten.
+Im Prozess der Datenerhebung spielen **zwei Hauptkomponenten** eine zentrale Rolle. Zum einen sind dies die verschiedenen **Verfahren**, die zur Datenerzeugung angewandt werden, sei es durch Experimente, Instrumente oder Datenbanken. Diese Verfahren dienen dazu, Daten zu generieren oder zu sammeln, um sie später für weitere Zwecke nutzen zu können. Zum anderen umfasst die **Methodik** die unterschiedlichen Prozesse, Praktiken und Prozeduren, die in der wissenschaftlichen Forschung angewandt werden, wie beispielsweise Umfragen, Fallstudien, Simulationen oder die Analyse bereits bestehender Daten.
 
-Während der Datenerzeugung spielen im **Kontext des Forschungsdatenmanagements** (FDM) zwei Hauptkomponenten eine wichtige Rolle. Die **Datenerfassung** stellt den Prozess dar, durch den Daten aktiv erzeugt oder gesammelt werden, um sie als Grundlage für zukünftige Analysen und Nachnutzungen zu verwenden. Parallel dazu ist die **Datendokumentation** von entscheidender Bedeutung, da sie eine ausführliche Beschreibung der Datenerzeugung beinhaltet. Dies umfasst Informationen zu den Randbedingungen, verwendeten Parametern, Datenformaten und anderen relevanten Aspekten, die eine bessere Verständlichkeit und Nachvollziehbarkeit der erzeugten Daten ermöglichen.
+Während der Datenerhebung spielen im **Kontext des Forschungsdatenmanagements** (FDM) zwei Hauptkomponenten eine wichtige Rolle. Die **Datenerfassung** stellt den Prozess dar, durch den Daten aktiv erzeugt oder gesammelt werden, um sie als Grundlage für zukünftige Analysen und Nachnutzungen zu verwenden. Parallel dazu ist die **Datendokumentation** von entscheidender Bedeutung, da sie eine ausführliche Beschreibung der Datenerzeugung beinhaltet. Dies umfasst Informationen zu den Randbedingungen, verwendeten Parametern, Datenformaten und anderen relevanten Aspekten, die eine bessere Verständlichkeit und Nachvollziehbarkeit der erzeugten Daten ermöglichen.
 
 Insgesamt ermöglicht ein "erfolgreiches" Vorgehen bei der Datenerfassung von Forschungsdaten eine spätere Analyse und Nachnutzung der Daten auf effektive Weise. Dabei spielt die klare Dokumentation der Datenerzeugung eine entscheidende Rolle, um Transparenz und Verständnis für die Daten zu gewährleisten.
 
