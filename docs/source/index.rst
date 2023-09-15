@@ -8,11 +8,14 @@ diesem Abschnitt und einer Auflistung von Zielen und Praktiken für die entsprec
 
 Qualitätsbewertung für das Forschungsdatenmanagement in Forschungsprojekten
 --------
+Einwicklung von Reifegradmodellen für die waulitative Bewertung des Forschungsdatenmanagements in Forschungsprojekten. Zur Forschungsnahen umsetzung werden Forschungsdatenmamangementbezogene Aufgaben in den Forschungsprozess implementiert, um Forschenden eine möglichst prozessnahe Umsetzung des Forschungsdatenmanagements nahezulegen. Dabei werden die Forschungsdatenmanagement Aufgaben auf Basis ihres Auftretens im Forschungsprozess in identifizierten Prozessbereichen zusammengefasst. Für die identifizierten Prozessbereiche werden einzelne Reifegradmodelle entwickelt, welche den Forschenden eine prozessdiskrete Bewertung ihres Forschungsdatenmanagement in Abhängigkeit des Forschungsprozesses ermöglichen. Die Reifegradmodelle folgend dabei einer gesamtheitlichen Reifegradcharacteristik, welche eine qualitative Bewertung auf diskreten Reifegraden, von einem Ausgangszustand bis zu einem optimierenden Endzustand, ermöglicht. 
+
+An wen richten sich die Modelle?
+--------
+Da für die Erfüllung der Anforderungen an das Forschungsdatenmanagement in erster Linie die Forschenden verantwortlich sind, richten sich die Reifegradmodelle direkt an die Forschenden im Forschungsprojekt und ermöglichen eine Selbstbeurteilung.
 
 
-
-
-Prozessbereiche des FDM im Forschungsprozess
+Prozessbereiche des Forschungsdatenmanagements im Forschungsprozess
 --------
 * :ref:`Planung`
 * :ref:`Erhebung`
