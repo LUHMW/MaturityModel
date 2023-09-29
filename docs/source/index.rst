@@ -18,11 +18,11 @@ Da für die Erfüllung der Anforderungen an das Forschungsdatenmanagement in ers
 
 Prozessbereiche des Forschungsdatenmanagements im Forschungsprozess
 --------
-* :ref:`Planung`
-* :ref:`Erhebung`
-* :ref:`Analyse`
-* :ref:`Archivierung`
-* :ref:`Zugriff`
+* :ref:`Planung` (1st Version)
+* :ref:`Erhebung` (Use Case aus dem Bereich Feldexperimente (`TA GOLO aus der NFDI4Ing <https://maturitymodel-rtd-tutorial.readthedocs.io/en/latest/reifegradmodell.html#allgemeine-reifegradcharakteristik>`_
+* :ref:`Analyse` (not yet implemented)
+* :ref:`Archivierung` (1st Version)
+* :ref:`Zugriff` (publicated Version)
 
 .. toctree::
    :caption: Reifegradmodell
