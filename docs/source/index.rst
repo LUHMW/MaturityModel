@@ -20,7 +20,7 @@ Prozessbereiche des Forschungsdatenmanagements im Forschungsprozess
 --------
 * :ref:`Planung` (1st Version)
 
-* :ref:`Erhebung` (Use Case aus dem Bereich Feldexperimente (`TA GOLO aus der NFDI4Ing <https://nfdi4ing.de/archetypes/golo/>`_
+* :ref:`Erhebung` (Use Case aus dem Bereich Feldexperimente (`TA GOLO aus der NFDI4Ing <https://nfdi4ing.de/archetypes/golo/>`_)
 * :ref:`Analyse` (not yet implemented)
 * :ref:`Archivierung` (1st Version)
 * :ref:`Zugriff` (publicated Version)
