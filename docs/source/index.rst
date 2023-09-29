@@ -23,7 +23,7 @@ Prozessbereiche des Forschungsdatenmanagements im Forschungsprozess
 * :ref:`Erhebung` (Use Case aus dem Bereich Feldexperimente (`TA GOLO aus der NFDI4Ing <https://nfdi4ing.de/archetypes/golo/>`_)
 * :ref:`Analyse` (not yet implemented)
 * :ref:`Archivierung` (1st Version)
-* :ref:`Zugriff` (publicated Version)
+* :ref:`Zugang` (publicated Version)
 
 .. toctree::
    :caption: Reifegradmodell
