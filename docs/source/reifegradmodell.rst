@@ -19,4 +19,6 @@ Die einzelnen Reifegradmodelle folgen einer definierten einheitlichen Reifegradc
   :width: 800 
 
 
-.. footer:: [1] CMMI Product Team: CMMI for Development, Version 1.3., Technical Report, 2010, `Link <https://insights.sei.cmu.edu/documents/853/2010_005_001_15287.pdf>`_.
+.. footer:: Literatur
+
+[1] CMMI Product Team: CMMI for Development, Version 1.3., Technical Report, 2010, `Link <https://insights.sei.cmu.edu/documents/853/2010_005_001_15287.pdf>`_.
