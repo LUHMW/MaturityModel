@@ -16,7 +16,7 @@ In der heutigen Forschungslandschaft spielt die Möglichkeit, anderen Forschende
 * Datenpublikationen sind eigenständige, zitierbare und dauerhafte Veröffentlichungen von digitalen Forschungsdaten
 * Förderer fordern vermehrt die Publikation von Daten
 **********************************
-Zweck zugänglich gemachter Daten
+Benefit zugänglich gemachter Daten
 **********************************
 
 Die Bereitstellung von Daten zur Wiederverwendung eröffnet eine Vielzahl von Vorteilen. Zum einen verhindert sie potenzielle **Duplikationen**, da bereits vorhandene Daten genutzt werden können. Dies trägt nicht nur zur Effizienz bei, sondern spart auch Ressourcen, die für wiederholte Datenerhebungen eingesetzt werden könnten.
