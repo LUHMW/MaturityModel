@@ -15,4 +15,4 @@ Die einzelnen Reifegradmodelle folgen einer definierten einheitlichen Reifegradc
   :width: 800 
 
 
-.. footer:: Diese Fußzeile wurde mit RST erstellt.
+.. footer:: [1] CMMI Product Team: CMMI for Development, Version 1.3., Technical Report, 2010, 'Link'<> 
