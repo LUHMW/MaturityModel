@@ -1,11 +1,11 @@
-.. _Zugriff:
+.. _Zugang:
 
 ##########
-Zugriff
+Zugang
 ##########
 
 *************************
-Was ist Zugriff?
+Daten zugänglich machen ?
 *************************
 
 In der heutigen Forschungslandschaft spielt die Möglichkeit, anderen Forschenden den **Zugriff auf Daten** zu ermöglichen, eine zentrale Rolle. Daten sind längst nicht mehr ausschließlich für die eigene Forschung von Bedeutung, sondern haben eine breitere Relevanz erlangt. Die Konzeption von **Datenpublikationen** als eigenständige, zitierbare und dauerhafte Veröffentlichungen von digitalen Forschungsdaten gewinnt dabei an Bedeutung. Insbesondere Förderinstitutionen legen verstärkten Fokus auf die Publikation von Daten, um deren **Nachnutzung zu fördern** und die Transparenz wissenschaftlicher Erkenntnisse zu steigern. Dieser Trend unterstreicht die wachsende Bedeutung der offenen Verfügbarkeit von Forschungsdaten für die gesamte wissenschaftliche Gemeinschaft.
