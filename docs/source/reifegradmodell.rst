@@ -9,7 +9,7 @@ Eine schematische Darstellung ist in einem adaptiertern Datenlebenszyklus darges
 
 Allgemeine Reifegradcharakteristik
 ----------------
-Die einzelnen Reifegradmodelle folgen einer definierten einheitlichen Reifegradcharakteristik, welche sich an den Zielen des Forschungsdatenmanagement und bestehender Reifegradmodelle orientiert. Grundlegend wurde dafür die Grundstruktur des CMMI "[1]" adaptiert. 
+Die einzelnen Reifegradmodelle folgen einer definierten einheitlichen Reifegradcharakteristik, welche sich an den Zielen des Forschungsdatenmanagement und bestehender Reifegradmodelle orientiert. Grundlegend wurde dafür die Grundstruktur des CMMI [1] adaptiert. 
 
 .. image:: images/RG_Characteristik_de.svg
   :width: 800 
