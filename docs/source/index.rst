@@ -18,8 +18,7 @@ Da für die Erfüllung der Anforderungen an das Forschungsdatenmanagement in ers
 
 Prozessbereiche des Forschungsdatenmanagements im Forschungsprozess
 --------
-* :ref:`Planung` 
-(1st Version)
+* :ref:`Planung` (1st Version)
 
 * :ref:`Erhebung` 
 (Use Case aus dem Bereich Feldexperimente (`TA GOLO aus der NFDI4Ing <https://nfdi4ing.de/archetypes/golo/>`_
