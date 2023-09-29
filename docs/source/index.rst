@@ -2,7 +2,7 @@ Reifegradmodelle für das Forschungsdatenmanagement in Forschungsprojekten
 ==================================================
 
 Auf dieser Website finden Sie Informationen über Reifegradmodelle und ihre Anwendung im Forschungsdatenmanagement (**FDM**).
-Für definierte Prozessgebiete finden Sie eine Seite mit allgemeinen Informationen zu 
+Für definierte Prozessbereiche finden Sie eine Seite mit allgemeinen Informationen zu 
 diesem Abschnitt und eine Auflistung von Zielen und Praktiken für die entsprechenden Reifestufen.
 
 
