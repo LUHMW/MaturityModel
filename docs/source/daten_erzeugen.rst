@@ -27,7 +27,7 @@ Insgesamt ermöglicht ein "erfolgreiches" Vorgehen bei der Datenerfassung von Fo
 Feldexperimente (GOLO)
 *************************
 
-Feldexperimente im Kontext von GOLO (Global Observing Land Office) bezeichnen die **praktische Durchführung** von Untersuchungen in natürlichen Umgebungen, um empirische Daten zu erfassen. Diese Experimente umfassen die Aufnahme einer breiten Palette von Daten direkt im Feld, was zur Erfassung verschiedenster Datentypen führt. Dabei werden **Felddaten** aus dem realen oder experimentellen Betrieb eines cyberphysischen Systems gesammelt. Die Besonderheit eines Feldexperiments liegt in der Einbeziehung von Designvariablen, wobei gleichzeitig höchstmögliche Natürlichkeit und Praxisnähe gewährleistet werden. Dieser Ansatz ermöglicht die Abbildung realer Bedingungen und die Gewinnung authentischer Erkenntnisse im Rahmen des GOLO-Projekts.
+Feldexperimente im Kontext von GOLO bezeichnen die **praktische Durchführung** von Untersuchungen in natürlichen Umgebungen, um empirische Daten zu erfassen. Diese Experimente umfassen die Aufnahme einer breiten Palette von Daten direkt im Feld, was zur Erfassung verschiedenster Datentypen führt. Dabei werden **Felddaten** aus dem realen oder experimentellen Betrieb eines cyberphysischen Systems gesammelt. Die Besonderheit eines Feldexperiments liegt in der Einbeziehung von Designvariablen, wobei gleichzeitig höchstmögliche Natürlichkeit und Praxisnähe gewährleistet werden. 
 
 * Durchführung einer Untersuchung in einem natürlichen Umfeld zur Erhebung empirischer Daten
 * Aufnahme von Daten in einem Feld
