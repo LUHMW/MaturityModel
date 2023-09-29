@@ -15,3 +15,4 @@ Die einzelnen Reifegradmodelle folgen einer definierten einheitlichen Reifegradc
   :width: 800 
 
 
+.. footer:: Diese Fußzeile wurde mit RST erstellt.
