@@ -6,9 +6,9 @@ Definierte Prozessbereiche
 Durch die Integration der Forschungsdatenmanagement-Aufgaben in den ingenieurwissenschaftlichen Forschungsprozess haben sich folgende Prozessbereiche für das Forschungsdatenmanagement ergeben, für welche einzelne Reifegradmodelle entwickelt werden. Es werden die grundlegenden Aufgaben für ein vollumfängliches FDM des jeweiligen Prozessbereichs aufgezeigt, wodurch den Forschenden eine forschungsprozessorientierte Identifizierung ihrer Qualität in der Umsetzung des Forschungsdatenmanagements ermöglicht wird. 
 
 .. image:: images/DLC5_RGM_allg_09_26_23_de.svg
-  :width: 800 
+  :width: 400 
 
-Eine schematische Darstellung ist in einem adaptiertern Datenlebenszyklus dargestellt. Die Phase der Nachnutzung ist in die Phase der Datenerhebung integriert, da diese Phase die Erhebung neuer Daten , oder die Sammlung bestehender Daten zur nachnutzung vorssieht
+Eine schematische Darstellung ist in einem adaptierten Datenlebenszyklus dargestellt. Die Phase der Nachnutzung ist in die Phase der Datenerhebung integriert, da diese Phase die Erhebung neuer Daten, oder die Sammlung bestehender Daten zur Nachnutzung vorsieht.
 
 
 Allgemeine Reifegradcharakteristik
