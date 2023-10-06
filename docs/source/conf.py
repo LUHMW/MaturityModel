@@ -41,7 +41,6 @@ html_theme_options = {
     'logo_only': True,
     'display_version': False,
     'body_max_width': '50%',
-    'table_style': 'width: 50%;',
     }
 
 # -- Options for EPUB output
