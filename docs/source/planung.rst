@@ -56,8 +56,8 @@ Zusammengefasst beinhalten die Aktivitäten der Planung eine Bandbreite von Schr
 * Klärung der ethischen und rechtlichen Rahmenbedingungen
 * Verantwortlichkeiten und spezifische Rollen für FDM müssen geklärt werden 
 * Prüfung auf Möglichkeit zur Nachnutzung bestehender Daten
-
 **Trainingsmaterialien:**
+
 ************
 Reifestufen
 ************
