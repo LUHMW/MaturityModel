@@ -12,6 +12,7 @@ Was ist Planung?
 Planung im Kontext des Forschungsdatenmanagements (FDM) markiert den **Startpunkt** eines FDM-Prozesses. Dabei stehen die **Forschungsdaten** im Zentrum, die in einem Projekt verwendet, bearbeitet und/oder erzeugt werden. Die Planungsphase umfasst die **strategische Organisation** der Datensammlung, -dokumentation, -organisation und -aufbewahrung.
 
 Ein zentrales Instrument in diesem Zusammenhang ist der **Datenmanagementplan** (DMP). Dieser Plan stellt sicher, dass alle Aspekte der Datenverwaltung abgedeckt sind, von der Datenerhebung bis zur Langzeitarchivierung. Förderinstitutionen legen zunehmend Wert auf einen detaillierten und durchdachten DMP als Teil des Antragsprozesses. Die Planungsphase legt somit den Grundstein für eine effektive und verantwortungsbewusste Handhabung von Forschungsdaten im gesamten Verlauf eines Projekts. 
+
 `Tool zur Erstellung von Datenmanagementplänen mit einem Fragenkatalog ausgerichtet an die Anforderungen der DFG - RDMO (NFDI4Ing) <https://rdmo.nfdi4ing.de/projects/>`_
 
 * Beginn eines FDM-Prozesses
