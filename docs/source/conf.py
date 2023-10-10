@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'MaturityModel'
+copyright = ''
+author = ''
 
 release = '0.1'
 version = '0.1.0'
@@ -17,6 +17,9 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+# --    'sphinx.ext.graphviz',  # Falls Sie Graphviz verwenden
+# --    'sphinx.ext.viewcode',
+# --    'sphinx_rtd_theme',
 ]
 
 intersphinx_mapping = {
@@ -27,15 +30,17 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
+smartquotes = False
+
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
-html_static_path = ['_static']
+# -- html_static_path = ['_static']
 html_logo = 'logo_nfdi4ing_cmyk_hoch.svg'
-html_theme_options = {
-    'logo_only': True,
-    'display_version': False,
-    }
+# --  html_theme_options = {
+# -- 'logo_only': True,
+# --  'display_version': False,
+# --  }
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
