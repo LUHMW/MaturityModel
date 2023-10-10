@@ -17,9 +17,9 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'sphinx.ext.graphviz',  # Falls Sie Graphviz verwenden
-    'sphinx.ext.viewcode',
-    'sphinx_rtd_theme',
+# --    'sphinx.ext.graphviz',  # Falls Sie Graphviz verwenden
+# --    'sphinx.ext.viewcode',
+# --    'sphinx_rtd_theme',
 ]
 
 intersphinx_mapping = {
