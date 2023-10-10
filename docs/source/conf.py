@@ -9,6 +9,8 @@ author = ''
 release = '0.1'
 version = '0.1.0'
 
+pip install sphinx-rtd-theme
+
 # -- General configuration
 
 extensions = [
