@@ -113,6 +113,7 @@ Level 1
 * Es wird intuitiv ein DMP erstellt und ausgefüllt (ad hoc)
 * Keine Planung wie ein DMP aussehen soll
 * Ausführung ist abhängig von Motivation des Forschenden
+`Trainingsmaterialien für die Planung des Forschungsdatenmanagements <https://nfdi4ing.pages.rwth-aachen.de/education/education-pages/dlc-datalifecycle/html_slides/dlc1.html#/>`_
 
 =========
 Level 2 
