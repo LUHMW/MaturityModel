@@ -246,3 +246,7 @@ sind weiterführende Informationen zu finden.
 `DFG Umgang mit Forschungsdaten <https://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/forschungsdaten/>`_
 
 `Planungstool RDMO (NFDI4Ing) <https://rdmo.nfdi4ing.de/projects/>`_
+
+.. footer:: Referenzen
+
+.. footer:: [1] Diese Trainingmaterialien sind entstanden im Rahmen der `NFDI4Ing Special Interest Group RDM Training & Education <https://insights.sei.cmu.edu/documents/853/2010_005_001_15287.pdf>`_. 
