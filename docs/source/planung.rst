@@ -57,6 +57,7 @@ Zusammengefasst beinhalten die Aktivitäten der Planung eine Bandbreite von Schr
 * Verantwortlichkeiten und spezifische Rollen für FDM müssen geklärt werden 
 * Prüfung auf Möglichkeit zur Nachnutzung bestehender Daten
 
+**Trainingsmaterialien:**
 ************
 Reifestufen
 ************
