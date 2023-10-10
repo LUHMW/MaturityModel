@@ -56,7 +56,7 @@ Zusammengefasst beinhalten die Aktivitäten der Planung eine Bandbreite von Schr
 * Klärung der ethischen und rechtlichen Rahmenbedingungen
 * Verantwortlichkeiten und spezifische Rollen für FDM müssen geklärt werden 
 * Prüfung auf Möglichkeit zur Nachnutzung bestehender Daten
-**Trainingsmaterialien:**
+**Trainingsmaterialien:** `Planung des Forschungsvorhabens <https://nfdi4ing.pages.rwth-aachen.de/education/education-pages/dlc-datalifecycle/html_slides/dlc1.html#/>`_
 
 ************
 Reifestufen
@@ -114,7 +114,7 @@ Level 1
 * Es wird intuitiv ein DMP erstellt und ausgefüllt (ad hoc)
 * Keine Planung wie ein DMP aussehen soll
 * Ausführung ist abhängig von Motivation des Forschenden
-`Trainingsmaterialien für die Planung des Forschungsvorhabens <https://nfdi4ing.pages.rwth-aachen.de/education/education-pages/dlc-datalifecycle/html_slides/dlc1.html#/>`_
+
 
 =========
 Level 2 
